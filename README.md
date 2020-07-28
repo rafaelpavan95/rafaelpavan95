@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 🎓 Bachelor of Science (BSc), Electrical Engineering [UNESP]
+## 🎓 Bachelor of Science (BSc), Electrical Engineering - [UNESP] (https://www.feb.unesp.br/)
 
 
 # My Data Science Projects:
