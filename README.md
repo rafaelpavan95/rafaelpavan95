@@ -1,3 +1,5 @@
 # Hi there 👋
 
-🎓 Bachelor of Science (BSc), Electrical Engineering (UNESP)
+## 🎓 Bachelor of Science (BSc), Electrical Engineering
+
+
