@@ -12,7 +12,7 @@
 Python, Machine Learning, KMeans
 
 ### + [Análise do Impacto da Temperatura e Radiação Solar na Tensão e Eficiência Energética de um Painel Solar Fotovoltaico. Aplicação de Regressão Linear Múltipla](https://github.com/rafaelpavan95/DataScience/blob/master/Clusteriza%C3%A7%C3%A3o_Energia.ipynb)
-R, Machine Learning, Regressão Linear Múltipla
+Python, Machine Learning, Regressão Linear Múltipla
 
 ### + [Implementando um algoritmo de Regressão Linear e o Comparando com o da Biblioteca Scikit-Learn](https://github.com/rafaelpavan95/DataScience/blob/master/Linear_Regression.ipynb)
 Python, Machine Learning, Regressão Linear Simples
