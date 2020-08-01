@@ -8,6 +8,9 @@
 
 # My Data Science Projects:
 
+### + [Analisando a Felicidade com Projeção Multidimensional, Coordenadas Paralelas e Random Forest](https://github.com/rafaelpavan95/DataScience/blob/master/happiness.ipynb)
+Python, Machine Learning, Random Forest, Regularização Ridge, Projeção Multidimensional Manifold, Gráfico Iterativo Bokeh, Coordenadas Paralelas
+
 ### + [Clusterização de Padrões de Consumo de Energia Elétrica e Análise do Consumo Energético de uma Residência](https://github.com/rafaelpavan95/DataScience/blob/master/Clusteriza%C3%A7%C3%A3o_Energia.ipynb)
 Python, Machine Learning, KMeans
 
