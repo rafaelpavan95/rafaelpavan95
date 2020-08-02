@@ -1,13 +1,13 @@
-# Hi there 👋
+# Olá 👋
 
-# Academic Background 
+# Formação Acadêmica 
 
 ### 🎓 Master of Science (MSc) Special Student, Energy Systems - [UNESP](https://www.feb.unesp.br)
 ### 🎓 Bachelor of Science (BSc), Electrical Engineering - [UNESP](https://www.feb.unesp.br)
 ### 🎓 Specialization, Data Science - [Data Science Academy](https://www.datascienceacademy.com.br/)
 _______________________________________
 
-# + Data Science Projects:
+# + Projetos de Ciência de Dados:
 
 ### + [Analisando a Felicidade com Projeção Multidimensional, Coordenadas Paralelas e Random Forest](https://github.com/rafaelpavan95/DataScience/blob/master/happiness.ipynb)
 Python, Machine Learning, Random Forest, Regularização Ridge, Projeção Multidimensional Manifold, Gráfico Iterativo Bokeh, Coordenadas Paralelas
@@ -26,7 +26,7 @@ Python, Machine Learning, Regressão Linear Múltipla
 
 _______________________________________
 
-# + Data Science Books and Courses:
+# + Livros e Cursos de Ciência de Dados:
 
 ### + [Scripts e Soluções: Practical Statistics for Data Scientists: 50 Essentials Concepts, O'REILLY]()
 
