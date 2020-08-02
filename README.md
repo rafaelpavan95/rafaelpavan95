@@ -4,8 +4,7 @@
 ### 🎓 Master of Science (MSc) Special Student, Energy Systems - [UNESP](https://www.feb.unesp.br)
 ### 🎓 Bachelor of Science (BSc), Electrical Engineering - [UNESP](https://www.feb.unesp.br)
 ### 🎓 Specialization, Data Science - [Data Science Academy](https://www.datascienceacademy.com.br/)
-
-
+_______________________________________
 
 # + Data Science Projects:
 
@@ -24,19 +23,24 @@ Python, Machine Learning, Regressão Linear Simples
 ### + [Implementando um algoritmo de Regressão Linear Múltipla e o Comparando com o da Biblioteca Scikit-Learn](https://github.com/rafaelpavan95/DataScience/blob/master/Multiple_Linear_Regression.ipynb)
 Python, Machine Learning, Regressão Linear Múltipla
 
-
+_______________________________________
 
 # + Data Science Studies:
 
-### + [Scripts e Soluções: An Introduction to Statistical Learning with Applications in R]()
+### + [Scripts e Soluções: Practical Statistics for Data Scientists: 50 Essentials Concepts, O'REILLY]()
 
-### + [Scripts e Soluções: Practical Statistics for Data Scientists: 50 Essentials Concepts]()
-
-### + [Scripts e Soluções: Hands On: Machine Learning with Scikit-Learn & TensorFlow]()
-
-### + [Scripts e Soluções: Data-Driven Astronomy - University of Sidney (Coursera)]()
+### + [Scripts e Soluções: Learning SQL, O'REILLY]()
 
 
+### + [Scripts e Soluções: An Introduction to Statistical Learning with Applications in R, SPRINGER]()
+
+
+### + [Scripts e Soluções: Hands On: Machine Learning with Scikit-Learn & TensorFlow, O'REILLY]()
+
+
+### + [Scripts e Soluções: Formação Cientista de Dados, Data Science Academy]()
+
+_______________________________________
 
 # + Electrical Engineering Studies:
 
