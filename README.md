@@ -25,7 +25,7 @@ Python, Machine Learning, Regressão Linear Múltipla
 
 _______________________________________
 
-# + Data Science Studies:
+# + Data Science Books and Courses:
 
 ### + [Scripts e Soluções: Practical Statistics for Data Scientists: 50 Essentials Concepts, O'REILLY]()
 
