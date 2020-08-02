@@ -29,7 +29,7 @@ Python, Machine Learning, Regressão Linear Múltipla
 
 _______________________________________
 
-# Data Science Books and Courses:
+# Data Science Books and Courses Learning:
 
 ###  Scripts e Soluções: 
 
