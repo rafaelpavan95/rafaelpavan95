@@ -28,17 +28,19 @@ _______________________________________
 
 # Data Science Books and Courses:
 
-#### + [Scripts e Soluções: Practical Statistics for Data Scientists: 50 Essentials Concepts, O'REILLY [Book]](https://github.com/rafaelpavan95/Practical_Statistics_for_Data_Scientists)
+###  Scripts e Soluções: 
 
-#### + [Scripts e Soluções: Learning SQL, O'REILLY [Book]]()
+#### + [Practical Statistics for Data Scientists: 50 Essentials Concepts, O'REILLY [Book]](https://github.com/rafaelpavan95/Practical_Statistics_for_Data_Scientists)
 
-#### + [Scripts e Soluções: An Introduction to Statistical Learning with Applications in R, SPRINGER [Book]]()
+#### + [Learning SQL, O'REILLY [Book]]()
 
-#### + [Scripts e Soluções: Hands On: Machine Learning with Scikit-Learn & TensorFlow, O'REILLY [Book]]()
+#### + [An Introduction to Statistical Learning with Applications in R, SPRINGER [Book]]()
 
-#### + [Scripts e Soluções: Feature Engineering for Machine Learning, O'REILLY [Book]]()
+#### + [Hands On: Machine Learning with Scikit-Learn & TensorFlow, O'REILLY [Book]]()
 
-#### + [Scripts e Soluções: Machine Learning, Data Science Academy [Course]]()
+#### + [Feature Engineering for Machine Learning, O'REILLY [Book]]()
+
+#### + [Machine Learning, Data Science Academy [Course]]()
 
 _______________________________________
 
