@@ -3,7 +3,7 @@
 # Academic Background 
 
 #### 🎓 Master of Science (MSc) Special Student, Energy Systems - [UNESP](https://www.feb.unesp.br) (2020 - Now)
-#### 🎓 Bachelor of Science (BSc), Electrical Engineering - [UNESP](https://www.feb.unesp.br) (2013- 2018)
+#### 🎓 Bachelor of Science (BSc), Electrical Engineering - [UNESP](https://www.feb.unesp.br) (2013 - 2018)
 #### 🎓 Specialization, Data Science - [Data Science Academy](https://www.datascienceacademy.com.br/) (2019 - 2020)
 _______________________________________
 
