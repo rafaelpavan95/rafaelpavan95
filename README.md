@@ -1,6 +1,6 @@
 # Hi There 👋
 
-# Academic Background 
+# + Academic Background 
 
 ### 🎓 Master of Science (MSc) Special Student, Energy Systems - [UNESP](https://www.feb.unesp.br)
 ### 🎓 Bachelor of Science (BSc), Electrical Engineering - [UNESP](https://www.feb.unesp.br)
@@ -44,5 +44,12 @@ _______________________________________
 
 # + Electrical Engineering Studies:
 
+____________________________________________
 
+# + Social Networks
+
+### + E-mail: rafaelpavan95@gmail.com
+### + [Linkedin](https://br.linkedin.com/in/engrafaelpavan)
+### + [Instagram](https://www.instagram.com/rafaelpavan95/)
+### + [Goodreads](https://www.goodreads.com/user/show/58755709-rafael-pavan)
 
