@@ -28,7 +28,7 @@ _______________________________________
 
 # Data Science Learning:
 
-###  Scripts e Soluções: 
+###  Scripts and Solutions: 
 
 #### + [Practical Statistics for Data Scientists: 50 Essentials Concepts, O'REILLY [Book]](https://github.com/rafaelpavan95/Practical_Statistics_for_Data_Scientists)
 
