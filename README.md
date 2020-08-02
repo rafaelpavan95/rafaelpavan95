@@ -43,8 +43,6 @@ _______________________________________
 
 #### + [Feature Engineering for Machine Learning, O'REILLY [Book]]()
 
-#### + [Machine Learning, Data Science Academy [Course]]()
-
 _______________________________________
 
 # Electrical Engineering Studies:
