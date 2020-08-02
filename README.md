@@ -28,7 +28,7 @@ _______________________________________
 
 # Data Science Books and Courses:
 
-### + [Scripts e Soluções: Practical Statistics for Data Scientists: 50 Essentials Concepts, O'REILLY [Book]]()
+### + [Scripts e Soluções: Practical Statistics for Data Scientists: 50 Essentials Concepts, O'REILLY [Book]](https://github.com/rafaelpavan95/Practical_Statistics_for_Data_Scientists)
 
 ### + [Scripts e Soluções: Learning SQL, O'REILLY [Book]]()
 
