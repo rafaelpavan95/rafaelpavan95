@@ -1,12 +1,12 @@
-# Hi There 👋
+# Olá 👋
 
-# Academic Background 
+# Formação Acadêmica 
 
-#### 🎓 Bachelor of Science (BSc), Electrical Engineering - [UNESP](https://www.feb.unesp.br) 
-#### 🎓 Specialization, Data Science - [Data Science Academy](https://www.datascienceacademy.com.br/) 
+#### 🎓 Bacharelado (BSc), Engenharia Elétrica - [UNESP](https://www.feb.unesp.br) 
+#### 🎓 Especialização, Formação Cientista de Dados - [Data Science Academy](https://www.datascienceacademy.com.br/) 
 _______________________________________
 
-# Data Science Projects:
+# Projetos de Ciência de Dados:
 
 #### + [Analisando a Felicidade com Projeção Multidimensional, Coordenadas Paralelas e Random Forest](https://github.com/rafaelpavan95/DataScience/blob/master/happiness.ipynb)
 Python, Machine Learning, Random Forest, Projeção Multidimensional Manifold, Gráfico Iterativo Bokeh, Coordenadas Paralelas
@@ -19,9 +19,9 @@ Python, Regressão Linear, Regularização Ridge, Machine Learning
 
 _______________________________________
 
-# Data Science Learning:
+# Aprendizado de Ciência de Dados com Livros:
 
-###  Scripts and Solutions: 
+###  Scripts e Soluções: 
 
 #### + [Practical Statistics for Data Scientists: 50 Essentials Concepts, O'REILLY [Book]](https://github.com/rafaelpavan95/Practical_Statistics_for_Data_Scientists)
 
@@ -35,11 +35,11 @@ _______________________________________
 
 _______________________________________
 
-# Electrical Engineering Studies:
+# Estudos de Engenharia Elétrica:
 
 ____________________________________________
 
-# Social Networks
+# Redes Sociais
 
 #### + E-mail: rafaelpavan95@gmail.com
 #### + [Linkedin](https://br.linkedin.com/in/engrafaelpavan)
