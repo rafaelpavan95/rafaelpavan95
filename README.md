@@ -1,3 +1,6 @@
+![](https://github.com/rafaelpavan95/rafaelpavan95/blob/master/fourier15.gif)
+
+
 # Olá 👋
 
 # Formação Acadêmica 
