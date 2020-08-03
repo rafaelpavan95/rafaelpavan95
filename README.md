@@ -1,11 +1,5 @@
 # Olá 👋
 
-# Formação Acadêmica 
-
-#### 🎓 Bacharelado (BSc), Engenharia Elétrica - [UNESP](https://www.feb.unesp.br)
-#### 🎓 Especialização, Formação Cientista de Dados - [Data Science Academy](https://www.datascienceacademy.com.br/) 
-_______________________________________
-
 # Projetos de Ciência de Dados:
 
 #### + [Analisando a Felicidade com Projeção Multidimensional, Coordenadas Paralelas e Random Forest](https://github.com/rafaelpavan95/DataScience/blob/master/happiness.ipynb)
