@@ -2,7 +2,7 @@
 
 # Formação Acadêmica 
 
-#### 🎓 Bacharelado (BSc), Engenharia Elétrica - [UNESP](https://www.feb.unesp.br) ⭐️
+#### 🎓 Bacharelado (BSc), Engenharia Elétrica - [UNESP](https://www.feb.unesp.br)
 #### 🎓 Especialização, Formação Cientista de Dados - [Data Science Academy](https://www.datascienceacademy.com.br/) 
 _______________________________________
 
