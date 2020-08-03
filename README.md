@@ -33,6 +33,8 @@ _______________________________________
 
 #### + [Feature Engineering for Machine Learning, O'REILLY [Book]]()
 
+#### + [Learning Spark, O'REILLY [Book]]()
+
 _______________________________________
 
 # Estudos de Engenharia Elétrica:
