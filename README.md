@@ -23,15 +23,15 @@ _______________________________________
 
 #### + [Practical Statistics for Data Scientists: 50 Essentials Concepts, O'REILLY [Book]](https://github.com/rafaelpavan95/Practical_Statistics_for_Data_Scientists)
 
-#### + [Learning SQL, O'REILLY [Book]]()
+#### + [Learning SQL, O'REILLY [Book]]
 
-#### + [An Introduction to Statistical Learning with Applications in R, SPRINGER [Book]]()
+#### + [An Introduction to Statistical Learning with Applications in R, SPRINGER [Book]]
 
-#### + [Hands On: Machine Learning with Scikit-Learn & TensorFlow, O'REILLY [Book]]()
+#### + [Hands On: Machine Learning with Scikit-Learn & TensorFlow, O'REILLY [Book]]
 
-#### + [Feature Engineering for Machine Learning, O'REILLY [Book]]()
+#### + [Feature Engineering for Machine Learning, O'REILLY [Book]]
 
-#### + [Learning Spark, O'REILLY [Book]]()
+#### + [Learning Spark, O'REILLY [Book]]
 
 _______________________________________
 
