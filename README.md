@@ -17,7 +17,7 @@ Python, Machine Learning, KMeans
 Python, Regressão Linear, Regularização Ridge, Machine Learning
 
 
-# MSc Specialisations
+# MSc Specializations
 
 ### Machine Learning and Data Mining
 ### Power Quality
