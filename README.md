@@ -4,6 +4,7 @@
 
 #### 🎓 Bacharelado (BSc), Engenharia Elétrica - [UNESP](https://www.feb.unesp.br)
 #### 🎓 Especialização, Formação Cientista de Dados - [Data Science Academy](https://www.datascienceacademy.com.br/) 
+
 # Projetos de Ciência de Dados:
 
 #### + [Analisando a Felicidade com Projeção Multidimensional, Coordenadas Paralelas e Random Forest](https://github.com/rafaelpavan95/DataScience/blob/master/happiness.ipynb)
@@ -15,27 +16,12 @@ Python, Machine Learning, KMeans
 #### + [Análise do Impacto da Temperatura e Radiação Solar na Tensão e Eficiência Energética de um Painel Solar Fotovoltaico. Aplicação da Regressão Linear Múltipla e Regularização Ridge](https://github.com/rafaelpavan95/DataScience/blob/master/Photovoltaic.ipynb)
 Python, Regressão Linear, Regularização Ridge, Machine Learning
 
-_______________________________________
 
-# Aprendizado de Ciência de Dados com Livros:
+# MSc Specialisations
 
-###  Scripts e Soluções: 
-
-#### + [Practical Statistics for Data Scientists: 50 Essentials Concepts, O'REILLY [Book]](https://github.com/rafaelpavan95/Practical_Statistics_for_Data_Scientists)
-
-#### + [Learning SQL, O'REILLY [Book]]
-
-#### + [An Introduction to Statistical Learning with Applications in R, SPRINGER [Book]]
-
-#### + [Hands On: Machine Learning with Scikit-Learn & TensorFlow, O'REILLY [Book]]
-
-#### + [Feature Engineering for Machine Learning, O'REILLY [Book]]
-
-#### + [Learning Spark, O'REILLY [Book]]
-
-_______________________________________
-
-# Estudos de Engenharia Elétrica:
+### Machine Learning and Data Mining
+### Power Quality
+### Power Flow Optimization
 
 ____________________________________________
 
