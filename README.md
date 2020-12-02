@@ -6,23 +6,14 @@
 #### 🎓 Bacharelado (BSc), Engenharia Elétrica - [UNESP](https://www.feb.unesp.br) (2013-2018)
 #### 🎓 Especialização, Formação Cientista de Dados - [Data Science Academy](https://www.datascienceacademy.com.br/) 
 
-# Projetos de Ciência de Dados:
+# Áreas:
 
-#### + [Analisando a Felicidade com Projeção Multidimensional, Coordenadas Paralelas e Random Forest](https://github.com/rafaelpavan95/DataScience/blob/master/happiness.ipynb)
-Python, Machine Learning, Random Forest, Projeção Multidimensional Manifold, Gráfico Iterativo Bokeh, Coordenadas Paralelas
+#### Machine Learning and Data Mining
+#### Power Quality
+#### Power Flow Optimization
+#### Linear Programming
+#### Non-Linear Programming
 
-#### + [Clusterização de Padrões de Consumo de Energia Elétrica e Análise do Consumo Energético de uma Residência](https://github.com/rafaelpavan95/DataScience/blob/master/Clusteriza%C3%A7%C3%A3o_Energia.ipynb)
-Python, Machine Learning, KMeans
-
-#### + [Análise do Impacto da Temperatura e Radiação Solar na Tensão e Eficiência Energética de um Painel Solar Fotovoltaico. Aplicação da Regressão Linear Múltipla e Regularização Ridge](https://github.com/rafaelpavan95/DataScience/blob/master/Photovoltaic.ipynb)
-Python, Regressão Linear, Regularização Ridge, Machine Learning
-
-
-# MSc Specializations
-
-### Machine Learning and Data Mining
-### Power Quality
-### Power Flow Optimization
 
 ____________________________________________
 
