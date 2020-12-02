@@ -3,6 +3,11 @@
 # Formação Acadêmica 
 
 #### 🎓 Mestrado (MSc), Otimização de Sistemas de Energia - [UNESP](https://www.feb.unesp.br) (2021-Agora)
+         - Aprendizado de Máquina e Mineração de Dados, UFScar
+         - Métodos Evolutivos de Otimização, UNESP
+         - Programação Inteira, UNESP
+         - Qualidade de Energia, UNESP
+         
 #### 🎓 Bacharelado (BSc), Engenharia Elétrica - [UNESP](https://www.feb.unesp.br) (2013-2018)
 #### 🎓 Especialização, Formação Cientista de Dados - [Data Science Academy](https://www.datascienceacademy.com.br/) 
 
