@@ -8,11 +8,7 @@
 
 # Áreas:
 
-#### Machine Learning and Data Mining
-#### Power Quality
-#### Power Flow Optimization
-#### Linear Programming
-#### Non-Linear Programming
+#### Machine Learning e Mineração de Dados, Otimização, Computação Evolucionária, Programação Linear, Programação Não-Linear, Programação Inteira-Mista, Qualidade de Energia, Otimização de Fluxo de Potência.
 
 
 ____________________________________________
