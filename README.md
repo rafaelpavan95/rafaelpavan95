@@ -2,7 +2,8 @@
 
 # Formação Acadêmica 
 
-#### 🎓 Bacharelado (BSc), Engenharia Elétrica - [UNESP](https://www.feb.unesp.br)
+#### 🎓 Mestrado (MSc), Otimização de Sistemas de Energia - [UNESP](https://www.feb.unesp.br) (2021-Agora)
+#### 🎓 Bacharelado (BSc), Engenharia Elétrica - [UNESP](https://www.feb.unesp.br) (2013-2018)
 #### 🎓 Especialização, Formação Cientista de Dados - [Data Science Academy](https://www.datascienceacademy.com.br/) 
 
 # Projetos de Ciência de Dados:
