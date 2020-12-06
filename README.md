@@ -1,4 +1,4 @@
-#### + [Variações de Tensão de Curta e Longa Duração](https://br.linkedin.com/in/engrafaelpavan)
+### + [Variações de Tensão de Curta e Longa Duração](https://br.linkedin.com/in/engrafaelpavan)
   - Normatização;
   - Estudos de caso;
   - Simulações;
