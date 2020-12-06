@@ -1,8 +1,8 @@
 ### + [Análise Gráfica de Dados de Qualidade de Energia Elétrica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_IV)
 - Trajetórias V-I (Lissajous)
 - Transformada de Fourier Janelada (Short Time Fourier Transform)
-- Transformada de Stockwell (S Transform);
-- Space Vector Elippse no Plano Complexo;
+- Transformada de Stockwell (S);
+- Space Vector Elippse no Plano Complexo (SVE);
 - Simulações e Programação (Simulink/Matlab).
 
 
