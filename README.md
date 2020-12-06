@@ -1,4 +1,4 @@
-### + [Análise Gráfica de Dados de Distúrbios de Qualidade de Energia Elétrica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_IV)
+### + [Análise Gráfica de Dados de Qualidade de Energia Elétrica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_IV)
 - Trajetórias V-I (Lissajous)
 - Transformada de Fourier Janelada (Short Time Fourier Transform)
 - Transformada de Stockwell (S Transform);
@@ -12,6 +12,11 @@
  - Simulações;
  - Matlab/Simulink.
 
+### + [Desequilíbrio e Distorção Harmônica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_III)
+ - Normatização;
+ - Estudos de caso;
+ - Simulações;
+ - Matlab/Simulink.
 
 
 ____________________________________________
