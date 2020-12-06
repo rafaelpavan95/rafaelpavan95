@@ -1,6 +1,8 @@
-# Áreas:
-
-#### Machine Learning e Mineração de Dados, Otimização, Computação Evolucionária, Programação Linear, Programação Não-Linear, Programação Inteira-Mista, Qualidade de Energia, Otimização de Fluxo de Potência.
+#### + [Variações de Tensão de Curta e Longa Duração](https://br.linkedin.com/in/engrafaelpavan)
+- Normatização;
+- Estudos de caso;
+- Simulações;
+- Matlab/Simulink.
 
 
 ____________________________________________
