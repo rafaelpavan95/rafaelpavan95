@@ -1,4 +1,4 @@
-### + [Aprendizado de SQL](https://github.com/rafaelpavan95/Learning_SQL)
+### + [Aprendizado de SQL: Standard Query Language](https://github.com/rafaelpavan95/Learning_SQL)
 
 ### + [Análise Gráfica de Dados de Qualidade de Energia Elétrica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_IV)
 - Trajetórias V-I (Lissajous)
