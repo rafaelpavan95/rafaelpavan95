@@ -8,7 +8,7 @@ Aprendizado de Máquina feito na mão:
 - Formulação Matemática da Regressão Linear;
 - Formulação Matemática da Regressão Logística;
 - Formulação Matemática da Rede Neural;
-- Formulação Matemática do SVM (Màquina de Vetores de Suporte);
+- Formulação Matemática do SVM (Máquinas de Vetores de Suporte);
 - Formulação Matemática do PCA (Análise de Componentes Principais);
 - Formulação Matemática do Agrupamento de Dados (K-Means);
 
