@@ -1,4 +1,16 @@
+### + [Machine Learning From Scracth](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
+- Formulação Matemática do KNN;
+- Formulação Matemática do Naive Bayes;
+- Formulação Matemática da Regressão Linear;
+- Formulação Matemática da Regressão Logística;
+- Formulação Matemática da Rede Neural;
+- Formulação Matemática do Support Vector Machine;
+- Formulação Matemática do Principal Component Analysis;
+- Formulação Matemática do Agrupamento de Dados (K-Means);
+
 ### + [Aprendizado de SQL: Standard Query Language](https://github.com/rafaelpavan95/Learning_SQL)
+- Query;
+- Filtering;
 
 ### + [Análise Gráfica de Dados de Qualidade de Energia Elétrica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_IV)
 - Trajetórias V-I (Lissajous)
