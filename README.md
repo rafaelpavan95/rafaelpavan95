@@ -1,4 +1,3 @@
-<span style='font-family:serif'>
 
 ### + [Machine Learning From Scracth](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 - Formulação Matemática do KNN;
@@ -49,4 +48,3 @@ ___________________________________________
 Volte Sempre!
 
 ![](https://thumbs.gfycat.com/LonelySmoggyGreatwhiteshark-max-1mb.gif)
-</span>
