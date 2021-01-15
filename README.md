@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://s.imgur.com/images/logo-1200-630.jpg?2)
 
 ### + [Machine Learning From Scracth](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 Aprendizado de Máquina feito na mão:
