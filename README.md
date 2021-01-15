@@ -4,7 +4,7 @@
 - Formulação Matemática da Regressão Linear;
 - Formulação Matemática da Regressão Logística;
 - Formulação Matemática da Rede Neural;
-- Formulação Matemática do Support Vector Machine;
+- Formulação Matemática do Support Vector Machines;
 - Formulação Matemática do Principal Component Analysis;
 - Formulação Matemática do Agrupamento de Dados (K-Means);
 
