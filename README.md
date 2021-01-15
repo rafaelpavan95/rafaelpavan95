@@ -1,8 +1,5 @@
-<div style="text-align:center">
+<img src="https://i.imgur.com/oJy56A2.jpg" class="leftAlign" style="width:20%">
 
-![wallpaper](https://i.imgur.com/oJy56A2.jpg)
-
-<img src=https://i.imgur.com/oJy56A2.jpg /></div>
   
 
 ### + [Machine Learning From Scracth](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
