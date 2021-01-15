@@ -1,4 +1,6 @@
+<p align="center">
 ![wallpaper](https://i.imgur.com/oJy56A2.jpg)
+</p>
 
 ### + [Machine Learning From Scracth](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 Aprendizado de Máquina feito na mão:
