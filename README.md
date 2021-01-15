@@ -3,13 +3,13 @@
 
 ### + [Machine Learning From Scracth](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 Aprendizado de Máquina feito na mão:
-- [Formulação Matemática do KNN](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb);
+- [Formulação Matemática do KNN (K-Vizinhos-Mais-Próximos)](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb);
 - Formulação Matemática do Naive Bayes;
 - Formulação Matemática da Regressão Linear;
 - Formulação Matemática da Regressão Logística;
 - Formulação Matemática da Rede Neural;
-- Formulação Matemática do Support Vector Machines;
-- Formulação Matemática do Principal Component Analysis;
+- Formulação Matemática do SVM (Màquina de Vetores de Suporte);
+- Formulação Matemática do PCA (Análise de Componentes Principais);
 - Formulação Matemática do Agrupamento de Dados (K-Means);
 
 ### + [Aprendizado de SQL: Standard Query Language](https://github.com/rafaelpavan95/Learning_SQL)
