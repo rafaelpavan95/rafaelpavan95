@@ -1,5 +1,4 @@
 
-<img src="https://i.imgur.com/7RqI1RM.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 
 ### + [Machine Learning From Scratch](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 
@@ -24,6 +23,7 @@ Aprendizado de Máquina feito na mão:
 - Resolução do Fluxo de Potência Com Variáveis Contínuas;
 - Matriz Jacobiana.
 
+<img src="https://i.imgur.com/lGtObek.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 
 ### + [Análise Gráfica de Dados de Qualidade de Energia Elétrica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_IV)
 - Trajetórias V-I (Lissajous)
