@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/oJy56A2.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
   
 
-### <span style="color:orange">+ [Machine Learning From Scracth](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining) </span>
+### + [Machine Learning From Scracth](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 Aprendizado de Máquina feito na mão:
 - [Formulação Matemática do KNN (K-Vizinhos-Mais-Próximos)](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb);
 - Formulação Matemática do Naive Bayes;
