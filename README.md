@@ -1,6 +1,8 @@
 
-<img src="https://i.imgur.com/7RqI1RM.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
+<img src="https://i.imgur.com/7RqI1RM.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+
 Aprendizado de Máquina feito na mão:
+
 - [Formulação Matemática do KNN (K-Vizinhos-Mais-Próximos)](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb);
 - Formulação Matemática do Naive Bayes;
 - Formulação Matemática da Regressão Linear;
