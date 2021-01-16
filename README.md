@@ -43,10 +43,7 @@ Aprendizado de Máquina feito na mão:
 - Solução de Equações Não-Lineares;
 - Aplicação em um Sistema Elétrico de Potência de 3 Barras;
 - Resolução do Fluxo de Potência Com Variáveis Contínuas;
-- Matriz Jacobiana.
-
-<img src="https://i.imgur.com/oJy56A2.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
-  
+- Matriz Jacobiana.  
 
 ____________________________________________
 
