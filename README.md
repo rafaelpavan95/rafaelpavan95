@@ -14,6 +14,12 @@ Aprendizado de Máquina feito na mão:
 - Query;
 - Filtros;
 
+### + [Método de Newton-Raphson]()
+- Solução de Equações Não-Lineares;
+- Aplicação em um Sistema Elétrico de Potência de 3 Barras;
+- Resolução do Fluxo de Potência Com Variáveis Contínuas;
+
+
 ### + [Análise Gráfica de Dados de Qualidade de Energia Elétrica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_IV)
 - Trajetórias V-I (Lissajous)
 - Transformada de Fourier Janelada (Short Time Fourier Transform)
