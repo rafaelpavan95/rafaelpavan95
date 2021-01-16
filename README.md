@@ -17,12 +17,6 @@ Aprendizado de Máquina feito na mão:
 - Query;
 - Filtros;
 
-### + [Método de Newton-Raphson]()
-- Solução de Equações Não-Lineares;
-- Aplicação em um Sistema Elétrico de Potência de 3 Barras;
-- Resolução do Fluxo de Potência Com Variáveis Contínuas;
-- Matriz Jacobiana.
-
 <img src="https://i.imgur.com/lGtObek.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 
 ### + [Análise Gráfica de Dados de Qualidade de Energia Elétrica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_IV)
@@ -45,7 +39,11 @@ Aprendizado de Máquina feito na mão:
 - Simulações;
 - Simulações e Programação (Simulink/Matlab).
 
-
+### + [Método de Newton-Raphson]()
+- Solução de Equações Não-Lineares;
+- Aplicação em um Sistema Elétrico de Potência de 3 Barras;
+- Resolução do Fluxo de Potência Com Variáveis Contínuas;
+- Matriz Jacobiana.
 
 <img src="https://i.imgur.com/oJy56A2.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
   
