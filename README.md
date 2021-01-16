@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/oJy56A2.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
-  
 
 ### + [Machine Learning From Scracth](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 Aprendizado de Máquina feito na mão:
@@ -36,6 +34,10 @@ Aprendizado de Máquina feito na mão:
 - Simulações;
 - Simulações e Programação (Simulink/Matlab).
 
+
+
+<img src="https://i.imgur.com/oJy56A2.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
+  
 
 ____________________________________________
 
