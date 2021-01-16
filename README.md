@@ -8,7 +8,7 @@ Aprendizado de Máquina feito na mão:
 - Formulação Matemática da Rede Neural;
 - Formulação Matemática do SVM (Máquinas de Vetores de Suporte);
 - Formulação Matemática do PCA (Análise de Componentes Principais);
-- Formulação Matemática do Agrupamento de Dados (K-Means);
+- Formulação Matemática do Agrupamento de Dados (K-Means).
 
 ### + [Aprendizado de SQL: Standard Query Language](https://github.com/rafaelpavan95/Learning_SQL)
 - Query;
@@ -18,6 +18,7 @@ Aprendizado de Máquina feito na mão:
 - Solução de Equações Não-Lineares;
 - Aplicação em um Sistema Elétrico de Potência de 3 Barras;
 - Resolução do Fluxo de Potência Com Variáveis Contínuas;
+- Matriz Jacobiana.
 
 
 ### + [Análise Gráfica de Dados de Qualidade de Energia Elétrica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_IV)
