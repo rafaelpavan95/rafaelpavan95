@@ -43,11 +43,5 @@ ____________________________________________
 
 #### + E-mail: rafaelpavan95@gmail.com
 #### + [Linkedin](https://br.linkedin.com/in/engrafaelpavan)
-#### + [Instagram](https://www.instagram.com/rafaelpavan95/)
-#### + [Goodreads](https://www.goodreads.com/user/show/58755709-rafael-pavan)
 
 ___________________________________________
-
-Volte Sempre!
-
-![](https://thumbs.gfycat.com/LonelySmoggyGreatwhiteshark-max-1mb.gif)
