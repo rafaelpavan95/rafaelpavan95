@@ -1,4 +1,4 @@
-
+<img src="https://i.imgur.com/hv2bB29.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 
 ### + [Machine Learning From Scratch](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 
