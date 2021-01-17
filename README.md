@@ -19,6 +19,8 @@ Aprendizado de Máquina feito na mão:
 
 <img src="https://i.imgur.com/lGtObek.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 
+### + [Computação Bio-Inspirada]()
+
 ### + [Análise Gráfica de Dados de Qualidade de Energia Elétrica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_IV)
 - Trajetórias V-I (Lissajous)
 - Transformada de Fourier Janelada (Short Time Fourier Transform)
