@@ -11,7 +11,7 @@ Aprendizado de Máquina feito na mão:
 - Formulação Matemática da Rede Neural;
 - Formulação Matemática do SVM (Máquinas de Vetores de Suporte);
 - [Formulação Matemática do PCA (Análise de Componentes Principais)](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/PCA_FROM_SCRATCH.ipynb);
-- Formulação Matemática do Agrupamento de Dados (K-Médias).
+- [Formulação Matemática do Agrupamento de Dados (K-Médias)](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KMEANS_FROM_SCRATCH.ipynb).
 
 ### + [Aprendizado de SQL: Standard Query Language](https://github.com/rafaelpavan95/Learning_SQL)
 - Query;
