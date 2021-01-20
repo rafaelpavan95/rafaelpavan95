@@ -14,8 +14,9 @@ Aprendizado de Máquina feito na mão:
 - [Formulação Matemática do Agrupamento de Dados (K-Médias)](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KMEANS_FROM_SCRATCH.ipynb).
 
 ### + [Aprendizado de SQL: Standard Query Language](https://github.com/rafaelpavan95/Learning_SQL)
-- Query;
+- Consultas;
 - Filtros;
+- Consultas de Múltiplas Tabelas;
 
 <img src="https://i.imgur.com/lGtObek.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 
