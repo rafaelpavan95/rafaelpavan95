@@ -7,7 +7,7 @@ Aprendizado de Máquina feito na mão:
 - [Formulação Matemática do KNN (K-Vizinhos-Mais-Próximos)](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb);
 - Formulação Matemática do Naive Bayes;
 - [Formulação Matemática da Regressão Linear;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/LINEAR_REGRESSION_FROM_SCRATCH.ipynb)
-- Formulação Matemática da Regressão Logística;
+- [Formulação Matemática da Regressão Logística;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/LOGISTIC_REGRESSION_FROM_SCRATCH.ipynb)
 - Formulação Matemática da Rede Neural;
 - Formulação Matemática do SVM (Máquinas de Vetores de Suporte);
 - [Formulação Matemática do PCA (Análise de Componentes Principais)](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/PCA_FROM_SCRATCH.ipynb);
