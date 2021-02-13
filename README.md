@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/hv2bB29.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
-
 ### + [Machine Learning From Scratch](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 
 Aprendizado de Máquina feito na mão:
@@ -17,8 +15,6 @@ Aprendizado de Máquina feito na mão:
 - Consultas;
 - Filtros;
 - Consultas de Múltiplas Tabelas;
-
-<img src="https://i.imgur.com/lGtObek.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 
 ### + [Computação Bio-Inspirada]()
 
