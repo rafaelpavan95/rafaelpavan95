@@ -47,7 +47,7 @@
 
 - Análise de Redes Sociais: Twitter e Instagram
 
-### + [Machine Learning From Scratch](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
+### + [Formulação Matemática de Algoritmos de Aprendizado de Máquina](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 
 - [Formulação Matemática do KNN (K-Vizinhos-Mais-Próximos)](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb);
 - [Formulação Matemática do Naive Bayes;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NAIVE_BAYES_FROM_SCRATCH.ipynb)
