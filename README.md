@@ -1,3 +1,10 @@
+Mestrando em Otimização de Sistemas de Energia e Bacharel em Engenharia Elétrica. Meus principais interesses são: Aprendizado de Máquina, Otimização e Mineração de Dados.
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
+
+#### E-mail: rafaelpavan95@gmail.com
+
+_______________________________
 
 ### + [Projetos de Ciência de Dados](https://github.com/rafaelpavan95/DataScience)
 
@@ -21,7 +28,9 @@
 
 - Sistema de Recomendação Para Rede de Varejo Usando Market Basket Analysis
 
- - Análise de Risco de Crédito
+- Análise de Risco de Crédito
+ 
+- Prevendo o Preço de Aluguel de Casas
 
 - Mapeando a Ocorrência do Vírus Zika
 
@@ -92,11 +101,3 @@
 - Resolução do Fluxo de Potência Com Variáveis Contínuas;
 - Matriz Jacobiana.  
 
-____________________________________________
-
-# Redes Sociais
-
-#### + E-mail: rafaelpavan95@gmail.com
-#### + [Linkedin](https://br.linkedin.com/in/engrafaelpavan)
-
-___________________________________________
