@@ -8,6 +8,11 @@ _______________________________
 
 ### + [Projetos de Ciência de Dados](https://github.com/rafaelpavan95/DataScience)
 
+
+- [Raspador de Tweets Genérico: Raspe Tweets Com a Palavra Chave Que Desejar](https://github.com/rafaelpavan95/DataScience/blob/master/Twitter_Scraper.ipynb) 
+
+- [Quais Fatores Mais Causam Desligamentos no Ambiente de Trabalho?](https://github.com/rafaelpavan95/DataScience/blob/master/RH_Analytics.ipynb) 
+
 - Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile 
 
 - Prevendo Demanda de Estoque com Base em Vendas
@@ -49,9 +54,7 @@ _______________________________
 - Análise de Indicadores de Performance em Redes de Varejo
 
 - Otimização de Preços de Mix de Produtos
-
-- [Quais Fatores Mais Causam Desligamentos no Ambiente de Trabalho?](https://github.com/rafaelpavan95/DataScience/blob/master/RH_Analytics.ipynb)                                   
-
+                                  
 - Prevendo o Tempo de Sobrevivência de Pacientes 1 Ano Após Receberem um Transplante 
 
 - Análise de Redes Sociais: Twitter e Instagram
