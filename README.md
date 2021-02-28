@@ -13,7 +13,7 @@ _______________________________
 
 - [Quais Fatores Mais Causam Desligamentos no Ambiente de Trabalho?](https://github.com/rafaelpavan95/DataScience/blob/master/RH_Analytics.ipynb) 
 
-- Análise de Agrupamento: Segmentação de Clientes de FoodDelivery
+- [Análise de Agrupamento: Segmentação de Clientes de FoodDelivery](https://github.com/rafaelpavan95/DataScience/blob/master/food_segmentation.ipynb)
 
 - Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile 
 
