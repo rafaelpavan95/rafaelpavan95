@@ -15,6 +15,8 @@ _______________________________
 
 - [Análise de Agrupamento: Segmentação de Clientes de FoodDelivery](https://github.com/rafaelpavan95/DataScience/blob/master/food_segmentation.ipynb)
 
+- Detecção de Fraudes em Transações de Cartões de Crédito - **Em Andamento**
+
 - Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile 
 
 - Prevendo Demanda de Estoque com Base em Vendas
