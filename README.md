@@ -75,14 +75,21 @@ _______________________________
 
 ### + [Aprendizado de SQL](https://github.com/rafaelpavan95/Learning_SQL)
 
-- Atividades do Livro: Learning SQL, Alan Beaulieu
-- Atividades do Livro: SQL Cookbook, Anthony Molinaro 
+- Atividades do Livro: [Learning SQL | Alan Beaulieu]()
+- Atividades do Livro: [SQL Cookbook | Anthony Molinaro]()
 
-### + [Aprendizado de Machine Learning](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
+### + [Aprendizado de Machine Learning e Data Mining](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 
-- Atividades do Livro: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurelien Geron
-
+- Atividades do Livro: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurelien Geron]()
+- Atividades do Livro: [Introduction to Machine Learning With Python: A Guide For Data Scientists | Andreas C. Muller e Sarah Guido]()
+- Atividades do Livro: [An Introduction to Statistical Learning: With Applications in R | G. James, D. Witten, T.Hastie, R. Tibshirani]()
+- Atividades do Livro: [Feature Engineering for Machine Learning: Principles And Techniques For Data Scientists | A. Zheng e A. Casari]()
+- 
 ### + [Aprendizado de Estatística]()
 
-- Atividades do Livro: An Introduction to Statistics with Python: With Applications in the Life Sciences, Thomas Haslwanter
+- Atividades do Livro: [An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter]()
+
+### + [Aprendizado de Estrutura de Dados e Algoritmos]()
+
+- Atividades do Livro: [Data Structures and Algorithms with Python | Kent. D.Lee e Steve Hubbard]()
 
