@@ -1,4 +1,4 @@
-Mestrando em Otimização de Sistemas de Energia e Bacharel em Engenharia Elétrica. Meus principais interesses são: Aprendizado de Máquina, Otimização e Mineração de Dados.
+Mestrando em Pesquisa Operacional de Sistemas de Energia e Bacharel em Engenharia Elétrica. Meus principais interesses são: Aprendizado de Máquina, Otimização e Mineração de Dados.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
 
