@@ -84,7 +84,7 @@ _______________________________
 - Atividades do Livro: [Introduction to Machine Learning With Python: A Guide For Data Scientists | Andreas C. Muller e Sarah Guido]()
 - Atividades do Livro: [An Introduction to Statistical Learning: With Applications in R | G. James, D. Witten, T.Hastie, R. Tibshirani]()
 - Atividades do Livro: [Feature Engineering for Machine Learning: Principles And Techniques For Data Scientists | A. Zheng e A. Casari]()
-- 
+
 ### + [Aprendizado de Estatística]()
 
 - Atividades do Livro: [An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter]()
