@@ -75,35 +75,14 @@ _______________________________
 
 ### + [Aprendizado de SQL](https://github.com/rafaelpavan95/Learning_SQL)
 
-### + [Aprendizado de NoSQL]()
+- Atividades do Livro: Learning SQL, Alan Beaulieu
+- Atividades do Livro: SQL Cookbook, Anthony Molinaro 
 
-### + [Aprendizado de DAX e PowerBI]()
+### + [Aprendizado de Machine Learning](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 
-### + [Computação Bio-Inspirada]()
+- Atividades do Livro: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurelien Geron
 
-### + [Análise Gráfica de Dados de Qualidade de Energia Elétrica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_IV)
-- Trajetórias V-I (Lissajous)
-- Transformada de Fourier Janelada (Short Time Fourier Transform)
-- Transformada de Stockwell (S);
-- Space Vector Elippse no Plano Complexo (SVE);
-- Simulações e Programação (Simulink/Matlab).
+### + [Aprendizado de Estatística]()
 
-
-### + [Variações de Tensão de Curta e Longa Duração](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_II)
-- Normatização;
-- Estudos de caso;
-- Simulações;
-- Simulações e Programação (Simulink/Matlab).
-
-### + [Desequilíbrio e Distorção Harmônica](https://github.com/rafaelpavan95/MSc_Energy_Systems/tree/main/Power_Quality/Trabalho_III)
-- Normatização;
-- Estudos de caso;
-- Simulações;
-- Simulações e Programação (Simulink/Matlab).
-
-### + [Método de Newton-Raphson]()
-- Solução de Equações Não-Lineares;
-- Aplicação em um Sistema Elétrico de Potência de 3 Barras;
-- Resolução do Fluxo de Potência Com Variáveis Contínuas;
-- Matriz Jacobiana.  
+- Atividades do Livro: An Introduction to Statistics with Python: With Applications in the Life Sciences, Thomas Haslwanter
 
