@@ -77,8 +77,8 @@ _______________________________
 
 ### + Aprendizado de Banco de Dados, SQL e NoSQL
 
-- Atividades do Livro: [Learning SQL | Alan Beaulieu]()
-- Atividades do Livro: [SQL Cookbook | Anthony Molinaro]()
+- Atividades do Livro: [Learning SQL | Alan Beaulieu](https://github.com/rafaelpavan95/Learning_SQL)
+- Atividades do Livro: [SQL Cookbook | Anthony Molinaro](https://github.com/rafaelpavan95/SQL_Cookbook)
 
 ### + Aprendizado de Machine Learning e Data Mining
 
