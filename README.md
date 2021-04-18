@@ -15,19 +15,15 @@ _______________________________
 
 - [Análise de Agrupamento: Segmentação de Clientes de FoodDelivery](https://github.com/rafaelpavan95/DataScience/blob/master/food_segmentation.ipynb)
 
-- Detecção de Fraudes em Transações de Cartões de Crédito - **Em Andamento**
+- Detecção de Fraudes em Transações de Cartões de Crédito 
 
 - Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile 
 
-- Prevendo Demanda de Estoque com Base em Vendas
-
 - Prevendo o Nível de Satisfação dos Clientes do Santander
 
+- Prevendo Demanda de Estoque com Base em Vendas
+
 - Prevendo Customer Churn em Operadoras de Telecom
-
-- Implementando Slow Changing Dimensions em um DW Usando Hive e Spark
-
-- Processamento de Logs em Tempo Real Com Flume, Spark Streaming e Hbase
 
 - Medicina Personalizada - Redefinindo o Tratamento de Câncer
 
@@ -39,8 +35,6 @@ _______________________________
 
 - Análise de Risco de Crédito
  
-- Prevendo o Preço de Aluguel de Casas
-
 - Mapeando a Ocorrência do Vírus Zika
 
 - Análise de Sentimentos em Redes Sociais
@@ -61,6 +55,8 @@ _______________________________
 
 - Análise de Redes Sociais: Twitter e Instagram
 
+- 
+
 
 ### + [Formulação Matemática de Algoritmos de Aprendizado de Máquina](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 
@@ -73,29 +69,32 @@ _______________________________
 - [Formulação Matemática do PCA (Análise de Componentes Principais)](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/PCA_FROM_SCRATCH.ipynb);
 - [Formulação Matemática do Agrupamento de Dados (K-Médias)](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KMEANS_FROM_SCRATCH.ipynb).
 
-### + [Computação Bio-Inspirada: Metaheurísticas para Resolução de Problemas Complexos de Otimização]()
+### + Computação Bio-Inspirada: Metaheurísticas para Resolução de Problemas Complexos de Otimização
 
-- [Otimização por Enxame de Partículas (Particle Swarm Optimization)]()
-- [Otimização por Algoritmo Genético (Genetic Algorithm Optimization)]()
-- [Otimização por Alcatéia de Lobos Cinzentos (Grey Wolf Optimization)]()
-- [Otimização por Colônia de Formigas (Ant Colony Optimization)]()
+- Otimização por Enxame de Partículas (Particle Swarm Optimization)
+- Otimização por Algoritmo Genético (Genetic Algorithm Optimization)
+- Otimização por Alcatéia de Lobos Cinzentos (Grey Wolf Optimization)
+- Otimização por Colônia de Formigas (Ant Colony Optimization)
 
-### + [Aprendizado de Banco de Dados, SQL e NoSQL]()
+### + Aprendizado de Banco de Dados, SQL e NoSQL
 
 - Atividades do Livro: [Learning SQL | Alan Beaulieu]()
 - Atividades do Livro: [SQL Cookbook | Anthony Molinaro]()
 
-### + [Aprendizado de Machine Learning e Data Mining]()
+### + Aprendizado de Machine Learning e Data Mining
 
 - Atividades do Livro: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurelien Geron]()
-- Atividades do Livro: [Introduction to Machine Learning With Python: A Guide For Data Scientists | Andreas C. Muller e Sarah Guido]()
-- Atividades do Livro: [Feature Engineering for Machine Learning: Principles And Techniques For Data Scientists | A. Zheng e A. Casari]()
-- Atividades do Livro: [Deep Learning With Python | François Chollet]()
+- Atividades do Livro: Introduction to Machine Learning With Python: A Guide For Data Scientists | Andreas C. Muller e Sarah Guido
+- Atividades do Livro: Feature Engineering for Machine Learning: Principles And Techniques For Data Scientists | A. Zheng e A. Casari
+- Atividades do Livro: Deep Learning With Python | François Chollet
+- Atividades do Livro: An Introduction to Statistical Learning: With Applications in R | G. James, D. Witten, T. Hastier, R. Tibshirani
+- Atividades do Livro: Natural Language Processing With Python | S. Bird, E. Klein, E. Loper
+ 
+### + Aprendizado de Estatística
 
-### + [Aprendizado de Estatística]()
+- Atividades do Livro: An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter
+- Atividades do Livro: Practical Statistics for Data Scientists: 50 Essentials Concepts Using Python and R | P. Bruce, A. Bruce, P. Gedeck
 
-- Atividades do Livro: [An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter]()
+### + Aprendizado de Estrutura de Dados e Algoritmos
 
-### + [Aprendizado de Estrutura de Dados e Algoritmos]()
-
-- Atividades do Livro: [Data Structures and Algorithms with Python | Kent. D.Lee e Steve Hubbard]()
+- Atividades do Livro: Data Structures and Algorithms with Python | Kent. D.Lee e Steve Hubbard
