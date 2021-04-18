@@ -81,7 +81,7 @@ _______________________________
 
 ### + Aprendizado de Machine Learning e Data Mining
 
-- Atividades do Livro: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurelien Geron]()
+- Atividades do Livro: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurelien Geron](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
 - Atividades do Livro: Introduction to Machine Learning With Python: A Guide For Data Scientists | Andreas C. Muller e Sarah Guido
 - Atividades do Livro: Feature Engineering for Machine Learning: Principles And Techniques For Data Scientists | A. Zheng e A. Casari
 - Atividades do Livro: Deep Learning With Python | François Chollet
