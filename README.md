@@ -55,7 +55,6 @@ _______________________________
 
 - Análise de Redes Sociais: Twitter e Instagram
 
-- 
 
 
 ### + [Formulação Matemática de Algoritmos de Aprendizado de Máquina](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
