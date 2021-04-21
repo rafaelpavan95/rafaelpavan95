@@ -69,10 +69,10 @@ _______________________________
 
 ### + Computação Bio-Inspirada: Metaheurísticas para Resolução de Problemas Complexos de Otimização
 
-- Otimização por Enxame de Partículas (Particle Swarm Optimization)
-- Otimização por Algoritmo Genético (Genetic Algorithm Optimization)
-- Otimização por Alcatéia de Lobos Cinzentos (Grey Wolf Optimization)
-- Otimização por Colônia de Formigas (Ant Colony Optimization)
+- [Otimização por Enxame de Partículas (Particle Swarm Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
+- [Otimização por Algoritmo Genético (Genetic Algorithm Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
+- [Otimização por Alcatéia de Lobos Cinzentos (Grey Wolf Optimization)]](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
+- [Otimização por Colônia de Formigas (Ant Colony Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
 
 ### + Aprendizado de Banco de Dados, SQL e NoSQL
 
