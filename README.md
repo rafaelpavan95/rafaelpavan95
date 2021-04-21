@@ -71,7 +71,7 @@ _______________________________
 
 - [Otimização por Enxame de Partículas (Particle Swarm Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
 - [Otimização por Algoritmo Genético (Genetic Algorithm Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
-- [Otimização por Alcatéia de Lobos Cinzentos (Grey Wolf Optimization)]](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
+- [Otimização por Alcatéia de Lobos Cinzentos (Grey Wolf Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
 - [Otimização por Colônia de Formigas (Ant Colony Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
 
 ### + Aprendizado de Banco de Dados, SQL e NoSQL
