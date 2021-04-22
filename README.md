@@ -27,7 +27,7 @@ _______________________________
 ### + [Projetos de Ciência de Dados](https://github.com/rafaelpavan95/DataScience)
 
 
-- [Raspador de Tweets Genérico: Raspe Tweets Com a Palavra Chave Que Desejar](https://github.com/rafaelpavan95/DataScience/blob/master/Twitter_Scraper.ipynb) 
+- [Prevendo Sobreviventes do Titanic](https://github.com/rafaelpavan95/DataScience/blob/master/Twitter_Scraper.ipynb)
 
 - [Quais Fatores Mais Causam Desligamentos no Ambiente de Trabalho?](https://github.com/rafaelpavan95/DataScience/blob/master/RH_Analytics.ipynb) 
 
@@ -72,6 +72,8 @@ _______________________________
 - Prevendo o Tempo de Sobrevivência de Pacientes 1 Ano Após Receberem um Transplante 
 
 - Análise de Redes Sociais: Twitter e Instagram
+
+- [Raspador de Tweets Genérico: Raspe Tweets Com a Palavra Chave Que Desejar](https://github.com/rafaelpavan95/DataScience/blob/master/Twitter_Scraper.ipynb) 
 
 
 ### + Aprendizado de Banco de Dados, SQL e NoSQL
