@@ -8,6 +8,7 @@ _______________________________
 
 ### + Formulação Matemática de Algoritmos de Aprendizado de Máquina
 
+- [Comparação: Stochastic GD vs Batch GD;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/Gradient.ipynb).
 - [Formulação Matemática do KNN (K-Vizinhos-Mais-Próximos);](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb)
 - [Formulação Matemática do Naive Bayes;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NAIVE_BAYES_FROM_SCRATCH.ipynb)
 - [Formulação Matemática da Regressão Linear;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/LINEAR_REGRESSION_FROM_SCRATCH.ipynb)
