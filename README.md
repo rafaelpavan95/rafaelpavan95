@@ -1,6 +1,8 @@
-Mestrando em Pesquisa Operacional e Bacharel em Engenharia Elétrica. Meus principais interesses são: Aprendizado de Máquina, Otimização e Mineração de Dados. Possuo experiência em Python e Matlab/Octave. Sou entusiasta de banco de dados, SQL, R e C++.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
+
+Mestrando em Pesquisa Operacional e Bacharel em Engenharia Elétrica. Meus principais interesses são: Aprendizado de Máquina, Otimização e Mineração de Dados. Possuo experiência em Python e Matlab. Sou entusiasta de banco de dados, SQL, R e C++.
+
+# :rocket: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
 
 #### E-mail: rafaelpavan95@gmail.com
 
@@ -103,7 +105,6 @@ _______________________________
 - Método de Pontos Interiores Primal-Afim Trajetória Central (Programação Não Linear)
 
 - Método de Pontos Interiores Dual-Afim Trajetória Central (Programação Não Linear)
-
 
 ### + Aprendizado de Banco de Dados, SQL e NoSQL
 
