@@ -2,7 +2,7 @@
 
 Mestrando em Pesquisa Operacional e Bacharel em Engenharia Elétrica. Meus principais interesses são: Aprendizado de Máquina, Otimização e Mineração de Dados. Possuo experiência em Python e Matlab. Sou entusiasta de banco de dados, SQL, R e C++.
 
-# :rocket: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
 
 #### E-mail: rafaelpavan95@gmail.com
 
