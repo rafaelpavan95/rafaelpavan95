@@ -21,8 +21,6 @@ _______________________________
 
 - [Otimização por Enxame de Partículas (Particle Swarm Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
 - [Otimização por Algoritmo Genético (Genetic Algorithm Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
-- [Otimização por Alcatéia de Lobos Cinzentos (Grey Wolf Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
-- [Otimização por Colônia de Formigas (Ant Colony Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
 
 
 ### + [Projetos de Ciência de Dados](https://github.com/rafaelpavan95/DataScience)
@@ -87,15 +85,42 @@ _______________________________
 - Atividades do Livro: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurelien Geron](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
 - Atividades do Livro: Introduction to Machine Learning With Python: A Guide For Data Scientists | Andreas C. Muller e Sarah Guido
 - Atividades do Livro: Feature Engineering for Machine Learning: Principles And Techniques For Data Scientists | A. Zheng e A. Casari
-- Atividades do Livro: Deep Learning With Python | François Chollet
-- Atividades do Livro: An Introduction to Statistical Learning: With Applications in R | G. James, D. Witten, T. Hastier, R. Tibshirani
 - Atividades do Livro: Natural Language Processing With Python | S. Bird, E. Klein, E. Loper
  
 ### + Aprendizado de Estatística
 
 - Atividades do Livro: An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter
-- Atividades do Livro: Practical Statistics for Data Scientists: 50 Essentials Concepts Using Python and R | P. Bruce, A. Bruce, P. Gedeck
 
 ### + Aprendizado de Estrutura de Dados e Algoritmos
 
 - Atividades do Livro: Data Structures and Algorithms with Python | Kent. D.Lee e Steve Hubbard
+
+### + Algoritmos Exatos de Otimização e Resolução de Problemas
+
+- Algoritmo de Newton-Raphson (Resolução de Fluxo de Carga);
+
+- Método de Pontos Interiores com Filtro e Penalização Senoidal (Solver IPOPT / FPOR);
+
+- [Método de Pontos Interiores Primal-Afim (Programação Linear)](https://github.com/rafaelpavan95/Optimization_Algorithms/blob/main/Primal_Afim_Linear.m)
+
+- [Método de Pontos Interiores Dual-Afim (Programação Linear)](https://github.com/rafaelpavan95/Optimization_Algorithms/blob/main/Dual_Afim_Linear.m)
+
+- Método de Pontos Interiores Primal-Afim (Programação Quadrática)
+
+- Método de Pontos Interiores Dual-Afim (Programação Quadrática)
+
+- Método de Pontos Interiores Primal-Afim (Programação Não Linear)
+
+- Método de Pontos Interiores Dual-Afim (Programação Não Linear)
+
+- Método de Pontos Interiores Primal-Afim Trajetória Central (Programação Linear)
+
+- Método de Pontos Interiores Dual-Afim Trajetória Central (Programação Linear)
+
+- Método de Pontos Interiores Primal-Afim Trajetória Central (Programação Quadrática)
+
+- Método de Pontos Interiores Dual-Afim Trajetória Central (Programação Quadrática)
+
+- Método de Pontos Interiores Primal-Afim Trajetória Central (Programação Não Linear)
+
+- Método de Pontos Interiores Dual-Afim Trajetória Central (Programação Não Linear)
