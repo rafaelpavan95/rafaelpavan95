@@ -74,27 +74,6 @@ _______________________________
 
 - [Raspador de Tweets Genérico: Raspe Tweets Com a Palavra Chave Que Desejar](https://github.com/rafaelpavan95/DataScience/blob/master/Twitter_Scraper.ipynb) 
 
-
-### + Aprendizado de Banco de Dados, SQL e NoSQL
-
-- Atividades do Livro: [Learning SQL | Alan Beaulieu](https://github.com/rafaelpavan95/Learning_SQL)
-- Atividades do Livro: [SQL Cookbook | Anthony Molinaro](https://github.com/rafaelpavan95/SQL_Cookbook)
-
-### + Aprendizado de Machine Learning e Data Mining
-
-- Atividades do Livro: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurelien Geron](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
-- Atividades do Livro: Introduction to Machine Learning With Python: A Guide For Data Scientists | Andreas C. Muller e Sarah Guido
-- Atividades do Livro: Feature Engineering for Machine Learning: Principles And Techniques For Data Scientists | A. Zheng e A. Casari
-- Atividades do Livro: Natural Language Processing With Python | S. Bird, E. Klein, E. Loper
- 
-### + Aprendizado de Estatística
-
-- Atividades do Livro: An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter
-
-### + Aprendizado de Estrutura de Dados e Algoritmos
-
-- Atividades do Livro: Data Structures and Algorithms with Python | Kent. D.Lee e Steve Hubbard
-
 ### + Algoritmos Exatos de Otimização e Resolução de Problemas
 
 - Algoritmo de Newton-Raphson (Resolução de Fluxo de Carga);
@@ -124,3 +103,22 @@ _______________________________
 - Método de Pontos Interiores Primal-Afim Trajetória Central (Programação Não Linear)
 
 - Método de Pontos Interiores Dual-Afim Trajetória Central (Programação Não Linear)
+
+
+### + Aprendizado de Banco de Dados, SQL e NoSQL
+
+- Atividades do Livro: [Learning SQL | Alan Beaulieu](https://github.com/rafaelpavan95/Learning_SQL)
+- Atividades do Livro: [SQL Cookbook | Anthony Molinaro](https://github.com/rafaelpavan95/SQL_Cookbook)
+
+### + Aprendizado de Machine Learning e Data Mining
+
+- Atividades do Livro: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurelien Geron](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
+
+### + Aprendizado de Estatística
+
+- Atividades do Livro: An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter
+
+### + Aprendizado de Estrutura de Dados e Algoritmos
+
+- Atividades do Livro: Data Structures and Algorithms with Python | Kent. D.Lee e Steve Hubbard
+
