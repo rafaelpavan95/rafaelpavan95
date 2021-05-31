@@ -28,11 +28,13 @@ _______________________________
 ### + [Projetos de Ciência de Dados](https://github.com/rafaelpavan95/DataScience)
 
 
+- Feature Selection Utilizando Algoritmo Genético
+
 - [Prevendo Sobreviventes do Titanic](https://github.com/rafaelpavan95/DataScience/blob/master/Titanic.ipynb)
 
 - [Quais Fatores Mais Causam Desligamentos no Ambiente de Trabalho?](https://github.com/rafaelpavan95/DataScience/blob/master/RH_Analytics.ipynb) 
 
-- [Análise de Agrupamento: Segmentação de Clientes de FoodDelivery](https://github.com/rafaelpavan95/DataScience/blob/master/food_segmentation.ipynb)
+- [Análise de Agrupamento: Segmentação de Clientes de FoodDelivery](https://github.com/rafaelpavan95/DataScience/blob/master/food_segmentation.ipynb) 
 
 - Detecção de Fraudes em Transações de Cartões de Crédito 
 
