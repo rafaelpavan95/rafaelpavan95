@@ -21,14 +21,18 @@ _______________________________
 
 ### + Computação Bio-Inspirada: Metaheurísticas para Resolução de Problemas Complexos de Otimização
 
-- [Otimização por Enxame de Partículas (Particle Swarm Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
-- [Otimização por Algoritmo Genético (Genetic Algorithm Optimization)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
+- Algoritmo Genético para Feature Selection
+- [Otimização por Enxame de Partículas - Despacho Econômico Não Suave](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
+- [Otimização por Algoritmo Genético - Despacho Econômico Não Suave](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
+- Otimização por Enxame de Partículas (Função de Rastrigin)
+- Otimização por Evolução Diferencial (Função de Ackley)
+- Otimização por Colônia de Formigas (Problema do Caxeiro Viajante)
+- Otimização por Recozimennto Simulado (Função de Rosenbrock)
+- Otimização por Busca Tabu (Problema da Mochila)
 
 
 ### + [Projetos de Ciência de Dados](https://github.com/rafaelpavan95/DataScience)
 
-
-- Feature Selection Utilizando Algoritmo Genético
 
 - [Prevendo Sobreviventes do Titanic](https://github.com/rafaelpavan95/DataScience/blob/master/Titanic.ipynb)
 
