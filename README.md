@@ -22,13 +22,9 @@ _______________________________
 ### + Computação Bio-Inspirada: Metaheurísticas para Resolução de Problemas Complexos de Otimização
 
 - Algoritmo Genético para Feature Selection
-- [Otimização por Enxame de Partículas - Despacho Econômico Não Suave](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
-- [Otimização por Algoritmo Genético - Despacho Econômico Não Suave](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
-- Otimização por Enxame de Partículas (Função de Rastrigin)
-- Otimização por Evolução Diferencial (Função de Ackley)
-- Otimização por Colônia de Formigas (Problema do Caxeiro Viajante)
-- Otimização por Recozimennto Simulado (Função de Rosenbrock)
-- Otimização por Busca Tabu (Problema da Mochila)
+- [Evolução Diferencial (Função de Rosenbrock)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/ED_Rosenbrock.ipynb);
+- [Enxame de Partículas (Despacho Não Suave)](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/enxame_particulas.m);
+- [Algoritmo Genético (Despacho Não Suave)](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/algoritmo_genetico.m);
 
 
 ### + [Projetos de Ciência de Dados](https://github.com/rafaelpavan95/DataScience)
