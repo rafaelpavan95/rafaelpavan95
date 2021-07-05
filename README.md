@@ -26,7 +26,7 @@ _______________________________
 - [Enxame de Partículas (Função de Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/PSO_Rastrigin.ipynb);
 - [Recozimento Simulado (Função Ackley)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/SA_Ackley.ipynb);
 - [Otimização por Enxame de Partículas Despacho Não Suave](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/enxame_particulas.m);
-- [Otimização por Algoritmo Genético Despacho Não Suave](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/algoritmo_genetico.m);
+- [Otimização por Colônia de Formigas Despacho Não Suave - Pontos de Singularidade](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/enxame_particulas.m);
 - [Otimização por Algoritmo Genético Despacho Não Suave](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/algoritmo_genetico.m);
 - [Análise Estatística (PSO vs AG - Aplicados ao Problema de Despacho Econômico com Ponto de Carregamento de Válvula);](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/An%C3%A1lise_Estat%C3%ADstica_PSO_AG.ipynb)
 
