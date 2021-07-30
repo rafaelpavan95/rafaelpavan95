@@ -32,6 +32,7 @@ _______________________________
 
 ### + [Projetos de Ciência de Dados](https://github.com/rafaelpavan95/DataScience)
 
+- [Clusterização e Predição de Imagens Faciais](https://github.com/rafaelpavan95/DataScience/blob/master/Clusteriza%C3%A7%C3%A3o%20e%20Predi%C3%A7%C3%A3o%20de%20Imagens%20Faciais.ipynb)
 
 - [Prevendo Sobreviventes do Titanic](https://github.com/rafaelpavan95/DataScience/blob/master/Titanic.ipynb)
 
