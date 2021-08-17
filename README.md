@@ -32,23 +32,28 @@ _______________________________
 
 ### + [Projetos de Ciência de Dados](https://github.com/rafaelpavan95/DataScience)
 
+
 - [Clusterização e Predição de Imagens Faciais](https://github.com/rafaelpavan95/DataScience/blob/master/Clusteriza%C3%A7%C3%A3o%20e%20Predi%C3%A7%C3%A3o%20de%20Imagens%20Faciais.ipynb)
 
-- [Prevendo Sobreviventes do Titanic](https://github.com/rafaelpavan95/DataScience/blob/master/Titanic.ipynb)
+- [Prevendo Sobreviventes do Titanic](https://github.com/rafaelpavan95/DataScience/blob/master/Titanic.ipynb) 
+
+- [Raspador de Tweets Genérico: Raspe Tweets Com a Palavra Chave Que Desejar](https://github.com/rafaelpavan95/DataScience/blob/master/Twitter_Scraper.ipynb) 
 
 - [Quais Fatores Mais Causam Desligamentos no Ambiente de Trabalho?](https://github.com/rafaelpavan95/DataScience/blob/master/RH_Analytics.ipynb) 
 
-- [Análise de Agrupamento: Segmentação de Clientes de FoodDelivery](https://github.com/rafaelpavan95/DataScience/blob/master/food_segmentation.ipynb) 
-
-- Detecção de Fraudes em Transações de Cartões de Crédito 
+- [Análise de Agrupamento: Segmentação de Clientes de FoodDelivery](https://github.com/rafaelpavan95/DataScience/blob/master/food_segmentation.ipynb)
 
 - Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile 
 
-- Prevendo o Nível de Satisfação dos Clientes do Santander
-
 - Prevendo Demanda de Estoque com Base em Vendas
 
+- Prevendo o Nível de Satisfação dos Clientes do Santander
+
 - Prevendo Customer Churn em Operadoras de Telecom
+
+- Implementando Slow Changing Dimensions em um DW Usando Hive e Spark
+
+- Processamento de Logs em Tempo Real Com Flume, Spark Streaming e Hbase
 
 - Medicina Personalizada - Redefinindo o Tratamento de Câncer
 
@@ -60,6 +65,8 @@ _______________________________
 
 - Análise de Risco de Crédito
  
+- Prevendo o Preço de Aluguel de Casas
+
 - Mapeando a Ocorrência do Vírus Zika
 
 - Análise de Sentimentos em Redes Sociais
@@ -70,9 +77,9 @@ _______________________________
 
 - Otimizando o Sistema de Voos de uma Companhia Aérea
 
-- Teste A/B
+- [Teste A/B](https://github.com/rafaelpavan95/DataScience/blob/master/Marketing-Analytics.ipynb)
 
-- Análise de Indicadores de Performance em Redes de Varejo
+- [Análise de Indicadores de Performance em Redes de Varejo](https://github.com/rafaelpavan95/DataScience/blob/master/indicadores.ipynb)
 
 - Otimização de Preços de Mix de Produtos
                                   
