@@ -79,7 +79,7 @@ _______________________________
 
 - [Teste A/B](https://github.com/rafaelpavan95/DataScience/blob/master/Marketing-Analytics.ipynb)
 
-- [Análise de Indicadores de Performance em Redes de Varejo](https://github.com/rafaelpavan95/DataScience/blob/master/indicadores.ipynb)
+- [Análise de Indicadores de Performance em Redes de Varejo](https://github.com/rafaelpavan95/DataScience/blob/master/Indicadores.ipynb)
 
 - Otimização de Preços de Mix de Produtos
                                   
