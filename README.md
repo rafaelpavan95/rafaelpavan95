@@ -81,7 +81,7 @@ _______________________________
 
 - [Análise de Indicadores de Performance em Redes de Varejo](https://github.com/rafaelpavan95/DataScience/blob/master/Indicadores.ipynb)
 
-- Otimização de Preços de Mix de Produtos
+- [Otimização de Preços de Mix de Produtos](https://github.com/rafaelpavan95/DataScience/blob/master/PI_OPT.ipynb)
                                   
 - Prevendo o Tempo de Sobrevivência de Pacientes 1 Ano Após Receberem um Transplante 
 
