@@ -115,6 +115,7 @@ _______________________________
 
 - Atividades do Livro: [Learning SQL | Alan Beaulieu](https://github.com/rafaelpavan95/Learning_SQL)
 - Atividades do Livro: [SQL Cookbook | Anthony Molinaro](https://github.com/rafaelpavan95/SQL_Cookbook)
+- Mini-Projeto: [Modelagem de um Banco de Dados Relacional de uma Universidade](https://github.com/rafaelpavan95/database_modelling)
 
 ### + Aprendizado de Machine Learning e Data Mining
 
