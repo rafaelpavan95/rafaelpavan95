@@ -1,6 +1,6 @@
 
 
-Mestrando em Pesquisa Operacional/Otimização e Bacharel em Engenharia Elétrica. Meus principais interesses são: Aprendizado de Máquina, Otimização e Mineração de Dados. Possuo experiência em Python e Matlab. Sou entusiasta de banco de dados, SQL e R.
+Mestrando em Pesquisa Operacional / Otimização e Bacharel em Engenharia Elétrica. Meus principais interesses são: Aprendizado de Máquina, Otimização e Mineração de Dados. Possuo experiência em Python e Matlab. Sou entusiasta de banco de dados, SQL e R.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
 
