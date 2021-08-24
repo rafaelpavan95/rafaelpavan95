@@ -1,6 +1,4 @@
-
-
-Mestrando em Pesquisa Operacional / Otimização e Bacharel em Engenharia Elétrica. Meus principais interesses são: Aprendizado de Máquina, Otimização e Mineração de Dados. Possuo experiência em Python e Matlab. Sou entusiasta de banco de dados, SQL e R.
+MSc student in Operational Research / Optimization and BSc in Electrical Engineering. My main interests are: Machine Learning, Optimization, Artificial Intelligence and Data Mining. Experienced in Python and Matlab programming. Databases, SQL and R enthusiast.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
 
@@ -8,7 +6,7 @@ Mestrando em Pesquisa Operacional / Otimização e Bacharel em Engenharia Elétr
 
 _______________________________
 
-### + Formulação Matemática de Algoritmos de Aprendizado de Máquina
+### + Machine Learning Algorithms Mathematical Formulation
 
 - [Comparação: Stochastic GD vs Batch GD;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/Gradient.ipynb)
 - [Formulação Matemática do KNN (K-Vizinhos-Mais-Próximos);](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb)
@@ -19,15 +17,15 @@ _______________________________
 - [Formulação Matemática do PCA (Análise de Componentes Principais);](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/PCA_FROM_SCRATCH.ipynb)
 - [Formulação Matemática do Agrupamento de Dados (K-Médias);](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KMEANS_FROM_SCRATCH.ipynb).
 
-### + Computação Bio-Inspirada: Metaheurísticas para Resolução de Problemas Complexos de Otimização
+### + Bio-Inspired Computing: Metaheuristics for Solving Complex Optimization Problems 
 
-- [Algoritmo Genético (Feature Selection)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/GA_Feature_Selection.ipynb);
-- [Evolução Diferencial (Função de Rosenbrock)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/ED_Rosenbrock.ipynb);
-- [Enxame de Partículas (Função de Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/PSO_Rastrigin.ipynb);
-- [Recozimento Simulado (Função Ackley)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/SA_Ackley.ipynb);
-- [Otimização por Enxame de Partículas Despacho Não Suave](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/enxame_particulas.m);
-- [Otimização por Algoritmo Genético Despacho Não Suave](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/algoritmo_genetico.m);
-- [Análise Estatística (PSO vs AG - Aplicados ao Problema de Despacho Econômico com Ponto de Carregamento de Válvula);](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/An%C3%A1lise_Estat%C3%ADstica_PSO_AG.ipynb)
+- [Genetic Algorithm (Feature Selection)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/GA_Feature_Selection.ipynb);
+- [Diferential Evolution (Função de Rosenbrock)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/ED_Rosenbrock.ipynb);
+- [Particle Swarm Optimization (Função de Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/PSO_Rastrigin.ipynb);
+- [Simulated Annealing (Função Ackley)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/SA_Ackley.ipynb);
+- [Particle Swarm Optimization (Economic Active Power Dispatch With Valve Loading Effects)](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/enxame_particulas.m);
+- [Genetic Algorithm (Economic Active Power Dispatch With Valve Loading Effects)](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/algoritmo_genetico.m);
+- [PSO vs GA - (Economic Active Power Dispatch With Valve Loading Effects);](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/An%C3%A1lise_Estat%C3%ADstica_PSO_AG.ipynb)
 
 
 ### + [Projetos de Ciência de Dados](https://github.com/rafaelpavan95/DataScience)
