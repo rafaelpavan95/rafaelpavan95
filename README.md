@@ -9,26 +9,26 @@ _______________________________
 ### + Machine Learning Algorithms Mathematical Formulation
 
 - [Comparação: Stochastic GD vs Batch GD;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/Gradient.ipynb)
-- [Formulação Matemática do KNN (K-Vizinhos-Mais-Próximos);](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb)
-- [Formulação Matemática do Naive Bayes;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NAIVE_BAYES_FROM_SCRATCH.ipynb)
-- [Formulação Matemática da Regressão Linear;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/LINEAR_REGRESSION_FROM_SCRATCH.ipynb)
-- [Formulação Matemática da Regressão Logística;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/LOGISTIC_REGRESSION_FROM_SCRATCH.ipynb)
-- [Formulação Matemática da Rede Neural;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NN_FROM_SCRATCH.ipynb)
-- [Formulação Matemática do PCA (Análise de Componentes Principais);](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/PCA_FROM_SCRATCH.ipynb)
-- [Formulação Matemática do Agrupamento de Dados (K-Médias);](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KMEANS_FROM_SCRATCH.ipynb).
+- [KNN (K-Nearest-Neighbours);](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KNN_FROM_SCRATCH.ipynb)
+- [Naive Bayes;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NAIVE_BAYES_FROM_SCRATCH.ipynb)
+- [Linear Regression;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/LINEAR_REGRESSION_FROM_SCRATCH.ipynb)
+- [Logistic Regression;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/LOGISTIC_REGRESSION_FROM_SCRATCH.ipynb)
+- [Neural Network;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/NN_FROM_SCRATCH.ipynb)
+- [PCA (Principal Component Analysis);](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/PCA_FROM_SCRATCH.ipynb)
+- [K-Means;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KMEANS_FROM_SCRATCH.ipynb).
 
 ### + Bio-Inspired Computing: Metaheuristics for Solving Complex Optimization Problems 
 
 - [Genetic Algorithm (Feature Selection)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/GA_Feature_Selection.ipynb);
-- [Diferential Evolution (Função de Rosenbrock)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/ED_Rosenbrock.ipynb);
-- [Particle Swarm Optimization (Função de Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/PSO_Rastrigin.ipynb);
-- [Simulated Annealing (Função Ackley)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/SA_Ackley.ipynb);
+- [Diferential Evolution (Rosenbrock)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/ED_Rosenbrock.ipynb);
+- [Particle Swarm Optimization (Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/PSO_Rastrigin.ipynb);
+- [Simulated Annealing (Ackley)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/SA_Ackley.ipynb);
 - [Particle Swarm Optimization (Economic Active Power Dispatch With Valve Loading Effects)](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/enxame_particulas.m);
 - [Genetic Algorithm (Economic Active Power Dispatch With Valve Loading Effects)](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/algoritmo_genetico.m);
 - [PSO vs GA - (Economic Active Power Dispatch With Valve Loading Effects);](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/An%C3%A1lise_Estat%C3%ADstica_PSO_AG.ipynb)
 
 
-### + [Projetos de Ciência de Dados](https://github.com/rafaelpavan95/DataScience)
+### + [Data Science Projects](https://github.com/rafaelpavan95/DataScience)
 
 
 - [Clusterização e Predição de Imagens Faciais](https://github.com/rafaelpavan95/DataScience/blob/master/Clusteriza%C3%A7%C3%A3o%20e%20Predi%C3%A7%C3%A3o%20de%20Imagens%20Faciais.ipynb)
@@ -87,7 +87,7 @@ _______________________________
 
 - [Raspador de Tweets Genérico: Raspe Tweets Com a Palavra Chave Que Desejar](https://github.com/rafaelpavan95/DataScience/blob/master/Twitter_Scraper.ipynb) 
 
-### + Algoritmos Exatos de Otimização e Resolução de Problemas
+### + Exact Optimization Algorithms
 
 - [Algoritmo de Newton-Raphson (Resolução de Fluxo de Carga)](https://github.com/rafaelpavan95/Optimization_Algorithms/blob/main/newton-raphson.m)
 - [Método de Pontos Interiores com Filtro e Penalização Senoidal (Solver IPOPT / FPOR)](https://github.com/rafaelpavan95/Optimization_Algorithms/blob/main/Otimiza%C3%A7%C3%A3o%20e%20M%C3%A9todo%20de%20Pontos%20Interiores%20-%20Penaliza%C3%A7%C3%A3o%20Senoidal.ipynb)
@@ -109,21 +109,21 @@ _______________________________
 - [Método de Pontos Interiores Primal-Dual Barreira Logarítmica (Programação Quadrática)](https://github.com/rafaelpavan95/Optimization_Algorithms/blob/main/TP8.m)
 
 
-### + Aprendizado de Banco de Dados, SQL e NoSQL
+### + Database, SQL, NoSQL Learning
 
 - Atividades do Livro: [Learning SQL | Alan Beaulieu](https://github.com/rafaelpavan95/Learning_SQL)
 - Atividades do Livro: [SQL Cookbook | Anthony Molinaro](https://github.com/rafaelpavan95/SQL_Cookbook)
 - Mini-Projeto: [Modelagem de um Banco de Dados Relacional de uma Universidade](https://github.com/rafaelpavan95/database_modelling)
 
-### + Aprendizado de Machine Learning e Data Mining
+### + Machine Learning and Data Mining Learning
 
 - Atividades do Livro: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurelien Geron](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
 
-### + Aprendizado de Estatística
+### + Statistical Learning
 
 - Atividades do Livro: An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter
 
-### + Aprendizado de Estrutura de Dados e Algoritmos
+### + Data Structures and Algorithms Learning
 
 - Atividades do Livro: Data Structures and Algorithms with Python | Kent. D.Lee e Steve Hubbard
 
