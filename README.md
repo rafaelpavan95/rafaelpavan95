@@ -1,7 +1,4 @@
-- MSc student in Operational Research / Optimization
-- BSc in Electrical Engineering. 
-- My main interests are: 
-- Machine Learning, Optimization, Artificial Intelligence and Data Mining. Experienced in Python and Matlab programming. Databases, SQL and R enthusiast.
+MSc student in Operational Research / Optimization and BSc in Electrical Engineering. My main interests are: Machine Learning, Optimization, Artificial Intelligence and Data Mining. Experienced in Python and Matlab programming. Databases, SQL and R enthusiast.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
 
