@@ -127,3 +127,22 @@ _______________________________
 
 - Atividades do Livro: Data Structures and Algorithms with Python | Kent. D.Lee e Steve Hubbard
 
+
+### + [Power Quality Disturbances: Data Analysis from Signals, Simulations and Visualization](https://github.com/rafaelpavan95/Power_Quality)
+
+Codes:
+
+- Fourier Transform;
+- Space Vector Elipse in Complex Plane;
+- Stockwell Transform;
+- Short Time Fourier Transform;
+- Lissajous Figures;
+- Clark Transform;
+- Artificial Disturbances;
+- Symmetrical Components
+
+Simulations:
+
+- Voltages Variation (Short and Long Time);
+- Harmonics (+,- and 0)
+
