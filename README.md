@@ -30,6 +30,7 @@ _______________________________
 
 ### + [Data Science Projects](https://github.com/rafaelpavan95/DataScience)
 
+- [Análise de Dados da API do Governo: Covid - Previsão do Número de Mortes para Outubro de 2021](https://github.com/rafaelpavan95/DataScience/blob/master/Covid_19.ipynb)
 
 - [Clusterização e Predição de Imagens Faciais](https://github.com/rafaelpavan95/DataScience/blob/master/Clusteriza%C3%A7%C3%A3o%20e%20Predi%C3%A7%C3%A3o%20de%20Imagens%20Faciais.ipynb)
 
