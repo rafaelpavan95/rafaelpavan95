@@ -121,7 +121,7 @@ _______________________________
 
 ### + Statistical Learning
 
-- Atividades do Livro: An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter
+- Atividades do Livro: [An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter](https://github.com/rafaelpavan95/statistical_learning)
 
 ### + Data Structures and Algorithms Learning
 
