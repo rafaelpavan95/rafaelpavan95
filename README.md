@@ -19,6 +19,7 @@ _______________________________
 
 ### + Bio-Inspired Computing: Metaheuristics for Solving Complex Optimization Problems 
 
+- [Nelder Mead (Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/Nelder_Mead.ipynb);
 - [Genetic Algorithm (Feature Selection)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/GA_Feature_Selection.ipynb);
 - [Diferential Evolution (Rosenbrock)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/ED_Rosenbrock.ipynb);
 - [Particle Swarm Optimization (Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/PSO_Rastrigin.ipynb);
