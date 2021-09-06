@@ -4,7 +4,7 @@ MSc student in Operational Research / Optimization and BSc in Electrical Enginee
 - Knowledge in SQL, Relational Databases and C++;
 - MSc Coursework based in Machine Learning, Artificial Intelligence and Optimization (Mathematical Programming and Bio-Inspired Metaheuristics);
 - Specialization in Data Science;
-- Extensive knowledge in calculus, linear algebra and statistics;
+- Extensive knowledge in Calculus, Linear Algebra, Statistics, Machine Learning and Neural Networks;
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
