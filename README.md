@@ -1,4 +1,12 @@
-MSc student in Operational Research / Optimization and BSc in Electrical Engineering. My main interests are: Machine Learning, Optimization, Artificial Intelligence and Data Analysis. Experienced in Python and Matlab. Knowledge in SQL and C++.
+Hi,
+
+My name is Rafael and I'm a MSc student in Operational Research / Optimization and BSc in Electrical Engineering. My main interests are: Machine Learning, Optimization, Artificial Intelligence and Data Analysis. 
+
+- Experienced in Python (sklearn, numpy, pandas, matplotlib, seaborn, sciPy, optimization solvers and frameworks) and Matlab. Knowledge in SQL and C++;
+- MSc Coursework based in Machine Learning, Artificial Intelligence and Optimization (Mathematical Programming and Bio-Inspired Metaheuristics);
+- Specilization in Data Science;
+- Extensive knowledge in calculus, linear algebra and statistics;
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
 
