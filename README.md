@@ -1,4 +1,4 @@
-MSc student in Operational Research / Optimization and BSc in Electrical Engineering. My main interests are: Machine Learning, Optimization, Artificial Intelligence and Data Analysis. Experienced in Python and Matlab programming. Databases, SQL and Software Engineering enthusiast.
+MSc student in Operational Research / Optimization and BSc in Electrical Engineering. My main interests are: Machine Learning, Optimization, Artificial Intelligence and Data Analysis. Experienced in Python and Matlab. Knowledge in SQL and C++.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
 
@@ -114,22 +114,18 @@ _______________________________
 
 ### + Database, SQL, NoSQL Learning
 
-- Atividades do Livro: [Learning SQL | Alan Beaulieu](https://github.com/rafaelpavan95/Learning_SQL)
-- Atividades do Livro: [SQL Cookbook | Anthony Molinaro](https://github.com/rafaelpavan95/SQL_Cookbook)
-- Mini-Projeto: [Modelagem de um Banco de Dados Relacional de uma Universidade](https://github.com/rafaelpavan95/database_modelling)
-- [Exercícios de SQL: Joins, Filtering, Sorting, Queries, Subqueries...](https://github.com/rafaelpavan95/database_modelling)
+- Book: [Learning SQL | Alan Beaulieu](https://github.com/rafaelpavan95/Learning_SQL)
+- Book: [SQL Cookbook | Anthony Molinaro](https://github.com/rafaelpavan95/SQL_Cookbook)
+- Mini-Project: [Modelagem de um Banco de Dados Relacional de uma Universidade](https://github.com/rafaelpavan95/database_modelling)
+- [SQL Exercises: Joins, Filtering, Sorting, Queries, Subqueries...](https://github.com/rafaelpavan95/database_modelling)
 
 ### + Machine Learning and Data Mining Learning
 
-- Atividades do Livro: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurelien Geron](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
+- Book: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurelien Geron](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
 
 ### + Statistical Learning
 
-- Atividades do Livro: [An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter](https://github.com/rafaelpavan95/statistical_learning)
-
-### + Data Structures and Algorithms Learning
-
-- Atividades do Livro: Data Structures and Algorithms with Python | Kent. D.Lee e Steve Hubbard
+- Book: [An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter](https://github.com/rafaelpavan95/statistical_learning)
 
 
 ### + [Power Quality Disturbances: Data Analysis from Signals, Simulations and Visualization](https://github.com/rafaelpavan95/Power_Quality)
