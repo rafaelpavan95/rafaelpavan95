@@ -40,6 +40,7 @@ _______________________________
 ### + [Data Science Projects](https://github.com/rafaelpavan95/DataScience)
 
 - [Análise de Dados da API do Governo: Covid - Previsão do Número de Mortes para Outubro de 2021](https://github.com/rafaelpavan95/DataScience/blob/master/Covid_19.ipynb)
+- [Rede Neural com Keras Para Classificação de Imagens de Vestuário](https://github.com/rafaelpavan95/DataScience/blob/master/RNA_Vestuario.ipynb)
 
 - [Clusterização e Predição de Imagens Faciais](https://github.com/rafaelpavan95/DataScience/blob/master/Clusteriza%C3%A7%C3%A3o%20e%20Predi%C3%A7%C3%A3o%20de%20Imagens%20Faciais.ipynb)
 
@@ -90,12 +91,10 @@ _______________________________
 - [Análise de Indicadores de Performance em Redes de Varejo](https://github.com/rafaelpavan95/DataScience/blob/master/Indicadores.ipynb)
 
 - [Otimização de Preços de Mix de Produtos](https://github.com/rafaelpavan95/DataScience/blob/master/PI_OPT.ipynb)
- 
+                                  
 - [Prevendo o Tempo de Sobrevivência de Pacientes 1 Ano Após Receberem um Transplante](https://github.com/rafaelpavan95/DataScience/blob/master/health.ipynb)
 
 - Análise de Redes Sociais: Twitter e Instagram
-
-- [Raspador de Tweets Genérico: Raspe Tweets Com a Palavra Chave Que Desejar](https://github.com/rafaelpavan95/DataScience/blob/master/Twitter_Scraper.ipynb) 
 
 ### + Exact Optimization Algorithms
 
