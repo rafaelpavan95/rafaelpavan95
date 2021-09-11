@@ -28,7 +28,7 @@ _______________________________
 - [Gravitational Search (Ackley)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/Gravitational_Search.ipynb);
 - [Nelder Mead (Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/Nelder_Mead.ipynb);
 - [Genetic Algorithm (Feature Selection)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/GA_Feature_Selection.ipynb);
-- [Diferential Evolution (Rosenbrock)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/ED_Rosenbrock.ipynb);
+- [Differential Evolution (Rosenbrock)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/ED_Rosenbrock.ipynb);
 - [Particle Swarm Optimization (Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/PSO_Rastrigin.ipynb);
 - [Simulated Annealing (Ackley)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/SA_Ackley.ipynb);
 - [Particle Swarm Optimization (Economic Active Power Dispatch With Valve Loading Effects)](https://github.com/rafaelpavan95/Metaheuristic_Optimization/blob/main/enxame_particulas.m);
