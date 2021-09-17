@@ -38,6 +38,8 @@ _______________________________
 
 ### + [Data Science Projects](https://github.com/rafaelpavan95/DataScience)
 
+- [Prevendo Salários de Funcionários com Análise Estatística de Regressão](https://github.com/rafaelpavan95/DataScience/blob/master/analise_regressao.ipynb)
+
 - [Análise de Dados da API do Governo: Covid - Previsão do Número de Mortes para Outubro de 2021](https://github.com/rafaelpavan95/DataScience/blob/master/Covid_19.ipynb)
 - [Rede Neural com Keras Para Classificação de Imagens de Vestuário](https://github.com/rafaelpavan95/DataScience/blob/master/RNA_Vestuario.ipynb)
 
