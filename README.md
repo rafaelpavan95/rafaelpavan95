@@ -97,6 +97,8 @@ _______________________________
 
 - Análise de Redes Sociais: Twitter e Instagram
 
+### + Visualização de Dados com Power BI
+
 ### + Exact Optimization Algorithms
 
 - [Algoritmo de Newton-Raphson (Resolução de Fluxo de Carga)](https://github.com/rafaelpavan95/Optimization_Algorithms/blob/main/newton-raphson.m)
