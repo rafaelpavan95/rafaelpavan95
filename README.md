@@ -97,7 +97,7 @@ _______________________________
 
 - Análise de Redes Sociais: Twitter e Instagram
 
-### + Visualização de Dados com Power BI
+### + [Power BI: Data Visualization](https://github.com/rafaelpavan95/powerbi_learning)
 
 ### + Exact Optimization Algorithms
 
