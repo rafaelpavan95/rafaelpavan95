@@ -23,7 +23,7 @@ _______________________________
 - [PCA (Principal Component Analysis);](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/PCA_FROM_SCRATCH.ipynb)
 - [K-Means;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KMEANS_FROM_SCRATCH.ipynb).
 
-### + Bio-Inspired Computing: Metaheuristics for Solving Complex Optimization Problems 
+### + Bio-Inspired Artificial Intelligence: Metaheuristics for Solving Complex Optimization Problems 
 
 - [Gravitational Search (Ackley)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/Gravitational_Search.ipynb);
 - [Nelder Mead (Rastrigin)](https://nbviewer.jupyter.org/github/rafaelpavan95/Metaheuristic_Optimization/blob/main/Nelder_Mead.ipynb);
