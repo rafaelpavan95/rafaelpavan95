@@ -23,7 +23,8 @@ _______________________________
 - [PCA (Principal Component Analysis);](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/PCA_FROM_SCRATCH.ipynb)
 - [K-Means;](https://nbviewer.jupyter.org/github/rafaelpavan95/MSc_MachineLearning_DataMining/blob/main/KMEANS_FROM_SCRATCH.ipynb).
 
-### + [Bio-Inspired Artificial Intelligence: Metaheuristics for Solving Complex Optimization Problems](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
+### + [Bio-Inspired Artificial Intelligence](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
+Repository For Metaheuristic Optimization Methods. 
 
 ### + [Data Science Projects](https://github.com/rafaelpavan95/DataScience)
 
