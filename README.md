@@ -1,7 +1,7 @@
 MSc student in Operational Research / Optimization and BSc in Electrical Engineering. My main interests are: Machine Learning, Artificial Intelligence, Optimization and Data Analysis.
 
 - Experienced in Python, Matlab, SQL, Power BI / DAX;
-- MSc coursework based in Machine Learning, Artificial Intelligence and Optimization (Mathematical Programming and Bio-Inspired Metaheuristics);
+- MSc coursework based in Machine Learning, Artificial Intelligence and Optimization (Mathematical Programming and Evolutionary Computing);
 - Specialization in Data Science;
 - Extensive knowledge in Calculus, Linear Algebra, Statistics, Machine Learning and Neural Networks;
 
@@ -14,7 +14,7 @@ MSc student in Operational Research / Optimization and BSc in Electrical Enginee
 > Repository for Data Science projects using Python.
 ## + [Machine Learning Algorithms](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 > Repository for Machine Learning and Neural Network algorithms implemented from scratch using Python and Matlab.
-## + [Bio-Inspired Artificial Intelligence](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
+## + [Bio-Inspired Artificial Intelligence (Evolutionary Computing)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
 > Repository for Metaheuristic Optimization Algorithms implemented from scratch using Python and Matlab.
 ## + [Exact Optimization Algorithms](https://github.com/rafaelpavan95/Optimization_Algorithms)
 > Repository for Exact Optimization Algorithms implemented from scratch using Python and Matlab.
