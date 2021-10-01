@@ -1,6 +1,6 @@
 MSc student in Operational Research / Optimization and BSc in Electrical Engineering. My main interests are: Machine Learning, Artificial Intelligence, Optimization and Data Analysis.
 
-- Experienced in Python, Matlab, SQL, Power BI / DAX;
+- Python, Matlab, SQL, Power BI / DAX;
 - MSc coursework based in Machine Learning, Artificial Intelligence and Optimization (Mathematical Programming and Evolutionary Computing);
 - Specialization in Data Science;
 - Extensive knowledge in Calculus, Linear Algebra, Statistics, Machine Learning and Neural Networks;
