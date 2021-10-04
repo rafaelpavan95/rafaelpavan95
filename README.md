@@ -20,7 +20,7 @@ MSc student in Operational Research / Optimization and BSc in Electrical Enginee
 > Repository for Exact Optimization Algorithms implemented from scratch using Python and Matlab.
 ## + [Power BI / DAX: Data Visualization](https://github.com/rafaelpavan95/powerbi_learning)
 > Repository for Data Visualization Projects using Power BI / DAX. 
-## + [Relational Databases and SQL](https://github.com/rafaelpavan95/database_modelling)
+## + [Relational Databases and SQL](https://github.com/rafaelpavan95/SQL_Learning)
 > Repository for SQL/Relational Databases Exercises and Projects.
 ## + Learning With Books and Courses
 > Repository for books/courses activities and studies:
