@@ -7,26 +7,3 @@ MSc student in Operational Research / Optimization of Energy Systems and BSc in 
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
-
-#### E-mail: rafaelpavan95@gmail.com
----------------------------------------
-## + [Data Science Projects](https://github.com/rafaelpavan95/DataScience)
-> Repository for Data Science projects using Python.
-## + [Machine Learning Algorithms](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
-> Repository for Machine Learning and Neural Network algorithms implemented from scratch using Python and Matlab.
-## + [Bio-Inspired Artificial Intelligence (Evolutionary Computing)](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
-> Repository for Metaheuristic Optimization Algorithms implemented from scratch using Python and Matlab.
-## + [Exact Optimization Algorithms](https://github.com/rafaelpavan95/Optimization_Algorithms)
-> Repository for Exact Optimization Algorithms implemented from scratch using Python and Matlab.
-## + [Power BI / DAX: Data Visualization](https://github.com/rafaelpavan95/powerbi_learning)
-> Repository for Data Visualization Projects using Power BI / DAX. 
-## + [Relational Databases and SQL](https://github.com/rafaelpavan95/SQL_Learning)
-> Repository for SQL/Relational Databases Exercises and Projects.
-## + Learning With Books and Courses
-> Repository for books/courses activities and studies:
-- Statistics: [An Introduction to Statistics with Python: With Applications in the Life Sciences | Thomas Haslwanter](https://github.com/rafaelpavan95/statistical_learning)
-- SQL: [Learning SQL | Alan Beaulieu](https://github.com/rafaelpavan95/Learning_SQL)
-- Machine Learning: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurelien Geron](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
-- Deep Learning: [Deep Learning With Python | François Chollet]()
-## + [Power Quality Disturbances: Data Analysis from Signals, Simulations and Visualization](https://github.com/rafaelpavan95/Power_Quality)
-> Repository for Data Analysis and Simulation of Power Quality Disturbances using Matlab and Simulink.
