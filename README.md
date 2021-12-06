@@ -19,6 +19,9 @@ Master of Science and Bachelor of Science in Electrical Engineering  with resear
   - #### Malaria Detection on Cell Images using Convolutional Neural Network with Keras
   --------
 
+### + [EVOComp: Evolutionary Computing Optimization Package](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
+----
+
 ### + [Machine Learning and Neural Networks Algorithms from Scratch](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 
 ----
@@ -35,9 +38,9 @@ Master of Science and Bachelor of Science in Electrical Engineering  with resear
 
 ### + [Statistical Learning: Exercises from Books and Courses](https://github.com/rafaelpavan95/statistical_learning)
 ----
-
 ### + [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
 ----
-
+### + [Julia Learning: Julia Programming for Operations Research]()
+-----
 ### + [Power Quality: Power Disturbances Data Analysis](https://github.com/rafaelpavan95/Power_Quality)
 ----
