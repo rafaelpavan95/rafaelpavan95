@@ -19,4 +19,4 @@ Master of Science and Bachelor of Science in Electrical Engineering  with resear
 
 ### + [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
 
-### + [Power Quality: Power Disturbances Data Analysis](https://github.com/rafaelpavan95/statistical_learning)
+### + [Power Quality: Power Disturbances Data Analysis](https://github.com/rafaelpavan95/Power_Quality)
