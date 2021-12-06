@@ -6,17 +6,38 @@ Master of Science and Bachelor of Science in Electrical Engineering  with resear
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/engrafaelpavan/) 
 
+-------------
+
+### + Data Science Projects:
+
+  - #### SMS SPAM Detection using Natural Language Processing Neural Network with Pytorch and Keras
+  - #### Behavior Analysis of Brazilian Financial Market in Covid-19 Pandemic 
+  - #### Credit Card Fraud Detection using Random Forest and XGBOOST Classifier
+  - #### HR Analytics: Understanding Employee Attrition and Performance
+  - #### Pishing Attack Detection
+  - #### Pneumonia Detection on X-Ray Images using Convolutional Neural Network with Pytorch
+  - #### Malaria Detection on Cell Images using Convolutional Neural Network with Keras
+  --------
 
 ### + [Machine Learning and Neural Networks Algorithms from Scratch](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
 
+----
+
 ### + [Evolutionary Computing: Metaheuristic Optimization Algorithms](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
 
+----
+
 ### + [Mathematical Programming: Deterministic Optimization Algorithms](https://github.com/rafaelpavan95/Optimization_Algorithms)
+-----
 
 ### + [SQL Learning: SQL Exercises from Books and Courses](https://github.com/rafaelpavan95/SQL_Learning)
+-----
 
 ### + [Statistical Learning: Exercises from Books and Courses](https://github.com/rafaelpavan95/statistical_learning)
+----
 
 ### + [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
+----
 
 ### + [Power Quality: Power Disturbances Data Analysis](https://github.com/rafaelpavan95/Power_Quality)
+----
