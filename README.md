@@ -14,7 +14,8 @@ MSc and BSc in Electrical Engineering  with research focus in  Mathematical Prog
 ## 🔨 Tools:
 
 - ##### Python (scikit-learn, pytorch, keras, pyomo, scipy, pandas, numpy, matplotlib, seaborn, pyspark, optimization frameworks)
-- ##### Matlab 
+- ##### Matlab
+- ##### R 
 - ##### SQL
 - ##### VBA
 - ##### Git
