@@ -3,7 +3,7 @@
 ## About Me:
 MSc and BSc in Electrical Engineering  with research focus in  Mathematical Programming and Artificial Intelligence.
 
-## Interests and Technical Skills:
+## 👨‍🔬 Interests and Technical Skills:
 
 - ##### 👨‍💻 Machine Learning
 - ##### 🧠 Neural Networks
@@ -11,12 +11,13 @@ MSc and BSc in Electrical Engineering  with research focus in  Mathematical Prog
 - ##### 📈 Optimization
 - ##### 📊 Data Analysis
 
-## Tools:
+## 🔨 Tools:
 
 - ##### Python (scikit-learn, pytorch, keras, pyomo, scipy, pandas, numpy, matplotlib, seaborn, pyspark, optimization frameworks)
 - ##### Matlab 
-- ##### Julia
-- ##### SQL 
+- ##### Julia 
+- ##### SQL
+- ##### VBA
 - ##### Git
 
 
@@ -36,5 +37,3 @@ MSc and BSc in Electrical Engineering  with research focus in  Mathematical Prog
 ### + [Power Quality: Power Disturbances Data Analysis](https://github.com/rafaelpavan95/Power_Quality)
 
 ____
-
-*“Where there’s a will, there’s a way.” - Albert Einsten*
