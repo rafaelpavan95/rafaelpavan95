@@ -1,23 +1,24 @@
 <h2> 👋 Hi, I'm Rafael Pavan </h2>
 
 ## About Me:
-MSc and BSc in Electrical Engineering  with research focus in  Mathematical Programming and Artificial Intelligence.
+- ##### Master of Science and Bachelor of Science in Electrical Engineering  at [@unesp](https://www2.unesp.br/)
+- ##### Specialization / Research Subjects: Mathematical Programming and Artificial Intelligence
 
-## 👨‍🔬 Interests and Technical Skills:
+## 👨‍🔬 Technical Skills:
 
 - ##### 👨‍💻 Machine Learning
 - ##### 🧠 Neural Networks
 - ##### 🧬 Evolutionary Computing
 - ##### 📈 Optimization
-- ##### 📊 Data Analysis
+- ##### ⛏️ Data Mining
+- ##### 🖥️ Software Engineering
 
 ## 🔨 Tools:
 
 - ##### Python (scikit-learn, pytorch, keras, pyomo, scipy, pandas, numpy, matplotlib, seaborn, pyspark, optimization frameworks)
+- ##### SQL
 - ##### Matlab
 - ##### R 
-- ##### SQL
-- ##### VBA
 - ##### Git
 
 
