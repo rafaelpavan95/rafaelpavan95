@@ -33,13 +33,33 @@
 
 - #### [SMS SPAM Detector: Classifying Messages as Spam or Legitimate](https://github.com/rafaelpavan95/SPAM_Detector)
 
+_________________
+
 ### + [Machine Learning and Neural Networks Algorithms from Scratch](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
+
+_________________
+
 ### + [Advanced Programming: Object Oriented Programming & Data Structures and Algorithms](https://github.com/rafaelpavan95/Advanced_Programming)
+
+_________________
 ### + [Evolutionary Computing: Metaheuristic Optimization Algorithms](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
+
+_________________
 ### + [Mathematical Programming: Deterministic Optimization Algorithms](https://github.com/rafaelpavan95/Optimization_Algorithms)
+
+_________________
 ### + [SQL Learning: SQL Exercises from Books and Courses](https://github.com/rafaelpavan95/SQL_Learning)
+
+
+_________________
 ### + [Statistical Learning: Exercises from Books and Courses](https://github.com/rafaelpavan95/statistical_learning)
+
+
+_________________
 ### + [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
+
+
+_________________
 ### + [Power Quality: Power Disturbances Data Analysis](https://github.com/rafaelpavan95/Power_Quality)
 
 ____
