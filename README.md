@@ -32,6 +32,7 @@
 ### + Data Science Projects:
 
 - #### [SMS SPAM Detector: Classifying Messages as Spam or Legitimate](https://github.com/rafaelpavan95/SPAM_Detector)
+- #### [Particle Swarm Optimization Based Neural Network: Evolutionary Computing Meets Machine Learning](https://github.com/rafaelpavan95/PSO_Neural_Network)
 
 _________________
 
