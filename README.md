@@ -1,10 +1,10 @@
 <h2> 👋 Hi, I'm Rafael Pavan </h2>
 
 ## About Me:
-- ##### Master of Science and Bachelor of Science in Electrical Engineering  at [@unesp](https://www2.unesp.br/)
-- ##### Specialization / Research Subjects: Mathematical Programming and Artificial Intelligence
 
-## 👨‍🔬 Technical Skills:
+Master of Science and Bachelor of Science in Electrical Engineering at [@unesp](https://www2.unesp.br/). I enjoy working with artificial intelligence and mathematical programming to solve problems and discover new things. Lifelong Learner. 😃
+
+## Technical Skills:
 
 - ##### 👨‍💻 Machine Learning
 - ##### 🧠 Neural Networks
@@ -13,7 +13,7 @@
 - ##### ⛏️ Data Mining
 - ##### 🖥️ Software Engineering
 
-## 🔨 Tools:
+## Tools:
 
 - ##### Python (scikit-learn, pytorch, keras, pyomo, scipy, pandas, numpy, matplotlib, seaborn, pyspark, optimization frameworks)
 - ##### SQL
@@ -43,24 +43,30 @@ _________________
 ### + [Advanced Programming: Object Oriented Programming & Data Structures and Algorithms](https://github.com/rafaelpavan95/Advanced_Programming)
 
 _________________
+
 ### + [Evolutionary Computing: Metaheuristic Optimization Algorithms](https://github.com/rafaelpavan95/Metaheuristic_Optimization)
 
 _________________
+
 ### + [Mathematical Programming: Deterministic Optimization Algorithms](https://github.com/rafaelpavan95/Optimization_Algorithms)
 
 _________________
+
 ### + [SQL Learning: SQL Exercises from Books and Courses](https://github.com/rafaelpavan95/SQL_Learning)
 
 
 _________________
+
 ### + [Statistical Learning: Exercises from Books and Courses](https://github.com/rafaelpavan95/statistical_learning)
 
 
 _________________
+
 ### + [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://github.com/rafaelpavan95/Hands_On_Machine_Learning)
 
 
 _________________
+
 ### + [Power Quality: Power Disturbances Data Analysis](https://github.com/rafaelpavan95/Power_Quality)
 
 ____
