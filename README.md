@@ -40,7 +40,10 @@ _________________
 
 _________________
 
-### + [PySpark Learning: PySpark Syntax Studies for Big Data Analysis](https://github.com/rafaelpavan95/PySpark_Learning)
+### + [PySpark Learning: PySpark Studies for Big Data Analysis](https://github.com/rafaelpavan95/PySpark_Learning)
+_________________
+
+### + [Hadoop Learning: Hadoop Studies for Big Data Analysis](https://github.com/rafaelpavan95/PySpark_Learning)
 _________________
 
 ### + [Advanced Programming: Object Oriented Programming & Data Structures and Algorithms](https://github.com/rafaelpavan95/Advanced_Programming)
