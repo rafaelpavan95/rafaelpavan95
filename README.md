@@ -2,7 +2,7 @@
 
 ## About Me:
 
-Master of Science and Bachelor of Science in Electrical Engineering at [@unesp](https://www2.unesp.br/). I enjoy working with artificial intelligence and mathematical programming to solve problems and discover new things. Lifelong Learner. 😃
+Master of Science and Bachelor of Science in Electrical Engineering at [@unesp](https://www2.unesp.br/). I enjoy working with artificial intelligence and mathematical programming to solve problems and discover new things.
 
 ## Technical Skills:
 
@@ -18,7 +18,6 @@ Master of Science and Bachelor of Science in Electrical Engineering at [@unesp](
 - ##### Python (scikit-learn, pytorch, keras, pyomo, scipy, pandas, numpy, matplotlib, seaborn, pyspark, optimization frameworks)
 - ##### SQL
 - ##### Matlab
-- ##### R 
 - ##### Git
 
 
