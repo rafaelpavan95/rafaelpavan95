@@ -2,7 +2,7 @@
 
 ## About Me:
 
-Master of Science and Bachelor of Science in Electrical Engineering at [@unesp](https://www2.unesp.br/). I enjoy working with artificial intelligence and mathematical programming to solve problems and discover new things.
+Master of Science and Bachelor of Science in Electrical Engineering at [@unesp](https://www2.unesp.br/). I enjoy working with Artificial Intelligence and Mathematical Programming to solve problems and discover new things.
 
 ## Technical Skills:
 
