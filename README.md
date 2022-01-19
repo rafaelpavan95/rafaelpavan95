@@ -15,7 +15,7 @@ Master of Science and Bachelor of Science in Electrical Engineering at [@unesp](
 
 ## Tools:
 
-- ##### Python (scikit-learn, pytorch, keras, pyomo, scipy, pandas, numpy, matplotlib, seaborn, pyspark, optimization frameworks)
+- ##### Python (scikit-learn, pytorch, keras, pyomo, scipy, pandas, numpy, matplotlib, seaborn, pyspark, optimization frameworks, API Rest)
 - ##### SQL
 - ##### Matlab
 - ##### Git
