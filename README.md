@@ -2,7 +2,7 @@
 
 ## About Me:
 
-Master of Science and Bachelor of Science in Electrical Engineering at [@unesp](https://www2.unesp.br/). I enjoy working with Artificial Intelligence and Mathematical Programming to solve problems and discover new things.
+I enjoy working with Artificial Intelligence and Optimization to solve problems and discover new things.
 
 ## Technical Skills:
 
@@ -11,7 +11,6 @@ Master of Science and Bachelor of Science in Electrical Engineering at [@unesp](
 - ##### 🧬 Evolutionary Computing
 - ##### 📈 Optimization
 - ##### ⛏️ Data Mining
-- ##### 🖥️ Software Engineering
 
 ## Tools:
 
@@ -30,9 +29,9 @@ Master of Science and Bachelor of Science in Electrical Engineering at [@unesp](
 
 ### + Data Science Projects:
 
-- #### [SMS SPAM Detector: Classifying Messages as Spam or Legitimate](https://github.com/rafaelpavan95/SPAM_Detector)
 - #### [Particle Swarm Optimization Based Neural Network: Evolutionary Computing Meets Machine Learning](https://github.com/rafaelpavan95/PSO_Neural_Network)
-
+- #### [Why Workers Quit? HR Analytics (PySpark SQL and MLlib, Plotly)](https://nbviewer.org/github/rafaelpavan95/HR_Analytics/blob/main/notebook.ipynb)
+- #### [SMS SPAM Detector: Classifying Messages as Spam or Legitimate (Pytorch Neural Network and NLP)](https://github.com/rafaelpavan95/SPAM_Detector)
 _________________
 
 ### + [Machine Learning and Neural Networks Algorithms from Scratch](https://github.com/rafaelpavan95/MSc_MachineLearning_DataMining)
