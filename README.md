@@ -38,7 +38,7 @@ _________________
 
 _________________
 
-### + [PySpark Learning: PySpark Studies for Big Data Analysis](https://github.com/rafaelpavan95/Spark_Hadoop_Learning)
+### + [PySpark and Hadoop Learning: Studies for Big Data Analysis](https://github.com/rafaelpavan95/Spark_Hadoop_Learning)
 _________________
 
 
