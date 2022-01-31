@@ -29,7 +29,7 @@ I enjoy working with Artificial Intelligence and Optimization to solve problems 
 
 ### + Data Science Projects:
 
-- #### [Machine Learning Deployment: API For Credit Card Fraud Detection (FastAPI)]()
+- #### [Machine Learning Deployment: API for Credit Card Fraud Detection (FastAPI)]()
 - #### [Particle Swarm Optimization Based Neural Network: Evolutionary Computing Meets Machine Learning](https://github.com/rafaelpavan95/PSO_Neural_Network)
 - #### [Why Workers Quit? HR Analytics (PySpark SQL and MLlib, Plotly)](https://nbviewer.org/github/rafaelpavan95/HR_Analytics/blob/main/notebook.ipynb)
 - #### [SMS SPAM Detector: Classifying Messages as Spam or Legitimate (Pytorch Neural Network and NLP)](https://github.com/rafaelpavan95/SPAM_Detector)
