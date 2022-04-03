@@ -14,7 +14,7 @@ I enjoy working with Artificial Intelligence and Optimization to solve problems 
 
 ## Tools:
 
-- ##### Python (scikit-learn, pytorch, keras, scipy, pandas, numpy, matplotlib, seaborn, plotly, pyspark, optimization frameworks (pyomo/gekko), flask - API Rest)
+- ##### Python (scikit-learn, pytorch, keras, scipy, pandas, numpy, matplotlib, seaborn, plotly, pyspark, pyomo, gekko, flask - API Rest)
 - ##### SQL
 - ##### Matlab
 - ##### Git
