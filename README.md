@@ -29,7 +29,7 @@ I enjoy working with Artificial Intelligence and Optimization to solve problems 
 ## Portfolio:
 
 ### + Data Science Projects:
-
+- ### [Detecting Parasitized Cell (Malaria) using Convolutional Neural Network](https://github.com/rafaelpavan95/Malaria_Computer_Vision)
 - #### [Machine Learning Deployment: API for Credit Card Fraud Detection (FastAPI)](https://github.com/rafaelpavan95/Fraud_Detection)
 - #### [Particle Swarm Optimization Based Neural Network: Evolutionary Computing Meets Machine Learning](https://github.com/rafaelpavan95/PSO_Neural_Network)
 - #### [Why Workers Quit? HR Analytics (PySpark SQL and MLlib, Plotly)](https://nbviewer.org/github/rafaelpavan95/HR_Analytics/blob/main/notebook.ipynb)
