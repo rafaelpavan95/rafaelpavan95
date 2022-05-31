@@ -9,15 +9,14 @@ I enjoy working with Artificial Intelligence and Optimization to solve problems 
 - ##### 👨‍💻 Machine Learning
 - ##### 🧠 Neural Networks
 - ##### 🧬 Evolutionary Computing
-- ##### 📈 Optimization
+- ##### 📈 Optimization / Operations Research
 - ##### ⛏️ Data Mining
 
 ## Tools:
 
-- ##### Python (scikit-learn, pytorch, keras, scipy, pandas, numpy, matplotlib, seaborn, plotly, pyspark, pyomo, gekko, flask/FastAPI - API Rest)
+- ##### Python
 - ##### SQL
 - ##### Matlab
-- ##### C++
 
 
 
