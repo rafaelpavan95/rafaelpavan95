@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I enjoy working with Artificial Intelligence and Optimization to solve problems and discover new things.
+I enjoy working with Artificial Intelligence and Optimization for solving problems and discovering new things.
 
 ## Technical Skills:
 
