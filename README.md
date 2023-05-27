@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I enjoy working with Artificial Intelligence and Optimization for solving problems and discovering new things.
+Experienced with Electrical Systems Design and Software Development for Scientific and Engineering Applications. Specialist in Artificial Intelligence (Machine Learning, Deep Learning, Evolutionary Computing) and Operations Research (Linear, Non-Linear and Mixed Integer Programming).
 
 ## Technical Skills:
 
@@ -17,7 +17,7 @@ I enjoy working with Artificial Intelligence and Optimization for solving proble
 - ##### Python
 - ##### SQL
 - ##### Matlab
-
+- ##### Julia
 
 
 ## Connect With Me: 
