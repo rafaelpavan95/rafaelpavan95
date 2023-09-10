@@ -12,12 +12,15 @@ Experienced with Electrical Systems Design and Software Development for Scientif
 - ##### 📈 Optimization / Operations Research
 - ##### ⛏️ Data Mining
 
+
 ## Tools:
 
 - ##### Python
 - ##### SQL
 - ##### Matlab
 - ##### Julia
+- ##### Optimization Solvers and Packages: Pyomo, SciPy, Gurobi, CPLEX, AMPL, IPOpt, GEKKO...
+- ##### Artificial Intelligence Packages: Scikit-learn, Pytorch, Tensorflow...
 
 
 ## Connect With Me: 
