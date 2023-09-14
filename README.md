@@ -8,7 +8,7 @@ Experienced with Electrical Systems Design and Software Development for Scientif
 
 - ##### 👨‍💻 Machine Learning
 - ##### 🧠 Neural Networks
-- ##### 🧬 Evolutionary Computing
+- ##### 🧬 Evolutionary Computing / Metaheuristics
 - ##### 📈 Optimization / Operations Research
 - ##### ⛏️ Data Mining
 
