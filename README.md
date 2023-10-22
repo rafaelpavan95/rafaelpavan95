@@ -11,6 +11,7 @@ Experienced with Electrical Systems Design and Software Development for Scientif
 - ##### 🧬 Evolutionary Computing / Metaheuristics
 - ##### 📈 Optimization / Operations Research
 - ##### ⛏️ Data Mining
+- ##### 🔌 Electrical Systems Design and Simulation
 
 
 ## Tools:
@@ -19,6 +20,8 @@ Experienced with Electrical Systems Design and Software Development for Scientif
 - ##### SQL
 - ##### Matlab
 - ##### Julia
+- ##### Simulink
+- ##### CAD, Revit, BIM
 
 
 ## Connect With Me: 
