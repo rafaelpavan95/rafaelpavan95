@@ -2,7 +2,7 @@
 
 ## About Me:
 
-Experienced with Electrical Systems Design and Software Development for Scientific and Engineering Applications. Specialist in Artificial Intelligence (Machine Learning, Deep Learning, Evolutionary Computing) and Operations Research (Linear, Non-Linear and Mixed Integer Programming).
+Specialist in Artificial Intelligence (Machine Learning, Deep Learning, Evolutionary Computing) and Operations Research (Linear, Non-Linear and Mixed Integer Programming).
 
 ## Technical Skills:
 
