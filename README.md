@@ -21,7 +21,6 @@ Experienced with Electrical Systems Design and Software Development for Scientif
 - ##### Matlab
 - ##### Julia
 - ##### Simulink
-- ##### CAD, Revit, BIM
 
 
 ## Connect With Me: 
