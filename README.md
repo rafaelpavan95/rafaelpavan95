@@ -8,7 +8,7 @@ Specialist in Artificial Intelligence (Machine Learning, Deep Learning, Evolutio
 
 - ##### 👨‍💻 Machine Learning
 - ##### 🧠 Neural Networks
-- ##### 🧬 Evolutionary Computing / Metaheuristics
+- ##### 🧬 Natural Computing / Metaheuristics
 - ##### 📈 Optimization / Operations Research
 - ##### ⛏️ Data Mining
 - ##### 🔌 Electrical Systems Design and Simulation
@@ -20,7 +20,7 @@ Specialist in Artificial Intelligence (Machine Learning, Deep Learning, Evolutio
 - ##### SQL
 - ##### Matlab
 - ##### Julia
-- ##### Simulink
+- ##### R
 
 
 ## Connect With Me: 
