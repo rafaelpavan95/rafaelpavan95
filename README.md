@@ -6,13 +6,11 @@ Specialist in Artificial Intelligence (Machine Learning, Deep Learning, Evolutio
 
 ## Technical Skills:
 
+- ##### 📈 Optimization / Operations Research
+- ##### 🧬 Natural Computing / Metaheuristics
 - ##### 👨‍💻 Machine Learning
 - ##### 🧠 Neural Networks
-- ##### 🧬 Natural Computing / Metaheuristics
-- ##### 📈 Optimization / Operations Research
 - ##### ⛏️ Data Mining
-- ##### 🔌 Electrical Systems Design and Simulation
-
 
 ## Tools:
 
