@@ -2,7 +2,7 @@
 
 ## About Me:
 
-Specialist in Artificial Intelligence (Machine Learning, Deep Learning, Natural Computing) and Operations Research (Linear, Non-Linear and Mixed Integer Programming).
+Specialist in Artificial Intelligence (Machine Learning, Deep Learning, Natural Computing) and Operations Research (Metaheuristics, Linear, Non-Linear and Mixed Integer Programming).
 
 ## Technical Skills:
 
