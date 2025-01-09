@@ -17,7 +17,7 @@ Specialist in Artificial Intelligence (Machine Learning, Deep Learning, Natural 
 - ##### Python
 - ##### SQL
 - ##### Matlab
-- ##### C++
+- ##### R
 
 
 ## Connect With Me: 
